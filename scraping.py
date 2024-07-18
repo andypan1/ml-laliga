@@ -4,7 +4,7 @@ import pandas as pd
 from bs4 import BeautifulSoup
 
 standings_url = "https://fbref.com/en/comps/12/La-Liga-Stats"
-years = list(range(2022, 2018, -1))
+years = list(range(2024, 2021, -1))
 all_matches = []
 for year in years:
     data = requests.get(standings_url)
@@ -40,7 +40,7 @@ for year in years:
         team_data["Season"] = year
         team_data["Team"] = name
         all_matches.append(team_data)
-        time.sleep(2)
+        time.sleep(10)
 
 match_df = pd.concat(all_matches)
 match_df.to_csv("matches.csv")
