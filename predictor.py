@@ -26,9 +26,9 @@ predictors = ["Venue_Code", "Opp_Code", "Day_Code"]
 rf.fit(train[predictors], train["Target"])
 preds = rf.predict(test[predictors])
 
-acc = accuracy_score(test["Target"], preds)
-
-combined = pd.DataFrame(dict(actual = test["Target"], prediction = preds))
+# FOR DEBUGGING
+# acc = accuracy_score(test["Target"], preds)
+# combined = pd.DataFrame(dict(actual = test["Target"], prediction = preds))
 # print(pd.crosstab(index = combined["actual"], columns=combined["prediction"])) for testing
 # print(precision_score(test["Target"], preds, average='weighted')) for testing
 
@@ -49,7 +49,7 @@ combined_matches = pd.concat([matches, future_matches], ignore_index=True)
 combined_matches_rolling = combined_matches.groupby("Team").apply(lambda x: rolling_avg(x, cols, new_cols))
 combined_matches_rolling = combined_matches_rolling.droplevel("Team")
 combined_matches_rolling.index = range(combined_matches_rolling.shape[0])
-combined_matches_rolling.to_csv("h.csv") #for debugging
+# combined_matches_rolling.to_csv("h.csv") # for debugging
 
 
 def make_predict(matches, predictors):
@@ -73,10 +73,12 @@ combined = combined.merge(combined_matches_rolling[["Date", "Team", "Opponent", 
 # mapping = MissDict(**map_values)
 # combined["new_team"] = combined["Team"].map(mapping)
 
-merged = combined.merge(combined, left_on = ["Date", "Team"], right_on = ["Date", "Opponent"])
-merged.to_csv("lol.csv")
-print(merged)
-print(merged[(merged["prediction_x"] == 2) & (merged["prediction_y"] == 1)]["actual_x"].value_counts())
-print(merged[(merged["prediction_x"] == 1) & (merged["prediction_y"] == 2)]["actual_x"].value_counts())
-print(merged[(merged["prediction_x"] == 0) & (merged["prediction_y"] == 0)]["actual_x"].value_counts())
+combined.to_csv("data.csv")
+
+# FOR DEBUGGING
+# merged = combined.merge(combined, left_on = ["Date", "Team"], right_on = ["Date", "Opponent"])
+# merged.to_csv("lol.csv")
+# print(merged[(merged["prediction_x"] == 2) & (merged["prediction_y"] == 1)]["actual_x"].value_counts())
+# print(merged[(merged["prediction_x"] == 1) & (merged["prediction_y"] == 2)]["actual_x"].value_counts())
+# print(merged[(merged["prediction_x"] == 0) & (merged["prediction_y"] == 0)]["actual_x"].value_counts()) 
 
