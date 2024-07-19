@@ -1,0 +1,761 @@
+,Date,Time,Comp,Round,Day,Venue,Result,GF,GA,Opponent,Poss,Attendance,Captain,Formation,Referee,Match Report,Notes,Season,Team
+1,2024-08-18,21:30,La Liga,Matchweek 1,Sun,Away,,,,Mallorca,,,,,,Head-to-Head,,2025,Real Madrid
+2,2024-08-25,17:00,La Liga,Matchweek 2,Sun,Home,,,,Valladolid,,,,,,Head-to-Head,,2025,Real Madrid
+3,2024-08-29,20:30,La Liga,Matchweek 3,Thu,Away,,,,Las Palmas,,,,,,Head-to-Head,,2025,Real Madrid
+4,2024-09-01,21:30,La Liga,Matchweek 4,Sun,Home,,,,Betis,,,,,,Head-to-Head,,2025,Real Madrid
+5,2024-09-15,,La Liga,Matchweek 5,Sun,Away,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Real Madrid
+6,2024-09-22,,La Liga,Matchweek 6,Sun,Home,,,,Espanyol,,,,,,Head-to-Head,,2025,Real Madrid
+7,2024-09-25,,La Liga,Matchweek 7,Wed,Home,,,,Alavés,,,,,,Head-to-Head,,2025,Real Madrid
+8,2024-09-29,,La Liga,Matchweek 8,Sun,Away,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Real Madrid
+9,2024-10-06,,La Liga,Matchweek 9,Sun,Home,,,,Villarreal,,,,,,Head-to-Head,,2025,Real Madrid
+10,2024-10-20,,La Liga,Matchweek 10,Sun,Away,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Real Madrid
+11,2024-10-27,,La Liga,Matchweek 11,Sun,Home,,,,Barcelona,,,,,,Head-to-Head,,2025,Real Madrid
+12,2024-11-03,,La Liga,Matchweek 12,Sun,Away,,,,Valencia,,,,,,Head-to-Head,,2025,Real Madrid
+13,2024-11-10,,La Liga,Matchweek 13,Sun,Home,,,,Osasuna,,,,,,Head-to-Head,,2025,Real Madrid
+14,2024-11-24,,La Liga,Matchweek 14,Sun,Away,,,,Leganés,,,,,,Head-to-Head,,2025,Real Madrid
+15,2024-12-01,,La Liga,Matchweek 15,Sun,Home,,,,Getafe,,,,,,Head-to-Head,,2025,Real Madrid
+16,2024-12-08,,La Liga,Matchweek 16,Sun,Away,,,,Girona,,,,,,Head-to-Head,,2025,Real Madrid
+17,2024-12-15,,La Liga,Matchweek 17,Sun,Away,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Real Madrid
+18,2024-12-22,,La Liga,Matchweek 18,Sun,Home,,,,Sevilla,,,,,,Head-to-Head,,2025,Real Madrid
+19,2025-01-11,,La Liga,Matchweek 19,Sat,Away,,,,Athletic Club,,,,,,Head-to-Head,,2025,Real Madrid
+20,2025-01-19,,La Liga,Matchweek 20,Sun,Home,,,,Las Palmas,,,,,,Head-to-Head,,2025,Real Madrid
+21,2025-01-26,,La Liga,Matchweek 21,Sun,Away,,,,Valladolid,,,,,,Head-to-Head,,2025,Real Madrid
+22,2025-02-02,,La Liga,Matchweek 22,Sun,Away,,,,Espanyol,,,,,,Head-to-Head,,2025,Real Madrid
+23,2025-02-09,,La Liga,Matchweek 23,Sun,Home,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Real Madrid
+24,2025-02-16,,La Liga,Matchweek 24,Sun,Away,,,,Osasuna,,,,,,Head-to-Head,,2025,Real Madrid
+25,2025-02-23,,La Liga,Matchweek 25,Sun,Home,,,,Girona,,,,,,Head-to-Head,,2025,Real Madrid
+26,2025-03-02,,La Liga,Matchweek 26,Sun,Away,,,,Betis,,,,,,Head-to-Head,,2025,Real Madrid
+27,2025-03-09,,La Liga,Matchweek 27,Sun,Home,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Real Madrid
+28,2025-03-16,,La Liga,Matchweek 28,Sun,Away,,,,Villarreal,,,,,,Head-to-Head,,2025,Real Madrid
+29,2025-03-30,,La Liga,Matchweek 29,Sun,Home,,,,Leganés,,,,,,Head-to-Head,,2025,Real Madrid
+30,2025-04-06,,La Liga,Matchweek 30,Sun,Home,,,,Valencia,,,,,,Head-to-Head,,2025,Real Madrid
+31,2025-04-13,,La Liga,Matchweek 31,Sun,Away,,,,Alavés,,,,,,Head-to-Head,,2025,Real Madrid
+32,2025-04-20,,La Liga,Matchweek 32,Sun,Home,,,,Athletic Club,,,,,,Head-to-Head,,2025,Real Madrid
+33,2025-04-23,,La Liga,Matchweek 33,Wed,Away,,,,Getafe,,,,,,Head-to-Head,,2025,Real Madrid
+34,2025-05-04,,La Liga,Matchweek 34,Sun,Home,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Real Madrid
+35,2025-05-11,,La Liga,Matchweek 35,Sun,Away,,,,Barcelona,,,,,,Head-to-Head,,2025,Real Madrid
+36,2025-05-14,,La Liga,Matchweek 36,Wed,Home,,,,Mallorca,,,,,,Head-to-Head,,2025,Real Madrid
+37,2025-05-18,,La Liga,Matchweek 37,Sun,Away,,,,Sevilla,,,,,,Head-to-Head,,2025,Real Madrid
+38,2025-05-25,,La Liga,Matchweek 38,Sun,Home,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Real Madrid
+0,2024-08-17,21:30,La Liga,Matchweek 1,Sat,Away,,,,Valencia,,,,,,Head-to-Head,,2025,Barcelona
+1,2024-08-24,19:00,La Liga,Matchweek 2,Sat,Home,,,,Athletic Club,,,,,,Head-to-Head,,2025,Barcelona
+2,2024-08-27,21:30,La Liga,Matchweek 3,Tue,Away,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Barcelona
+3,2024-08-31,17:00,La Liga,Matchweek 4,Sat,Home,,,,Valladolid,,,,,,Head-to-Head,,2025,Barcelona
+4,2024-09-15,,La Liga,Matchweek 5,Sun,Away,,,,Girona,,,,,,Head-to-Head,,2025,Barcelona
+5,2024-09-22,,La Liga,Matchweek 6,Sun,Away,,,,Villarreal,,,,,,Head-to-Head,,2025,Barcelona
+6,2024-09-25,,La Liga,Matchweek 7,Wed,Home,,,,Getafe,,,,,,Head-to-Head,,2025,Barcelona
+7,2024-09-29,,La Liga,Matchweek 8,Sun,Away,,,,Osasuna,,,,,,Head-to-Head,,2025,Barcelona
+8,2024-10-06,,La Liga,Matchweek 9,Sun,Away,,,,Alavés,,,,,,Head-to-Head,,2025,Barcelona
+9,2024-10-20,,La Liga,Matchweek 10,Sun,Home,,,,Sevilla,,,,,,Head-to-Head,,2025,Barcelona
+10,2024-10-27,,La Liga,Matchweek 11,Sun,Away,,,,Real Madrid,,,,,,Head-to-Head,,2025,Barcelona
+11,2024-11-03,,La Liga,Matchweek 12,Sun,Home,,,,Espanyol,,,,,,Head-to-Head,,2025,Barcelona
+12,2024-11-10,,La Liga,Matchweek 13,Sun,Away,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Barcelona
+13,2024-11-24,,La Liga,Matchweek 14,Sun,Away,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Barcelona
+14,2024-12-01,,La Liga,Matchweek 15,Sun,Home,,,,Las Palmas,,,,,,Head-to-Head,,2025,Barcelona
+15,2024-12-08,,La Liga,Matchweek 16,Sun,Away,,,,Betis,,,,,,Head-to-Head,,2025,Barcelona
+16,2024-12-15,,La Liga,Matchweek 17,Sun,Home,,,,Leganés,,,,,,Head-to-Head,,2025,Barcelona
+17,2024-12-22,,La Liga,Matchweek 18,Sun,Home,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Barcelona
+18,2025-01-11,,La Liga,Matchweek 19,Sat,Away,,,,Mallorca,,,,,,Head-to-Head,,2025,Barcelona
+19,2025-01-19,,La Liga,Matchweek 20,Sun,Away,,,,Getafe,,,,,,Head-to-Head,,2025,Barcelona
+20,2025-01-26,,La Liga,Matchweek 21,Sun,Home,,,,Valencia,,,,,,Head-to-Head,,2025,Barcelona
+21,2025-02-02,,La Liga,Matchweek 22,Sun,Home,,,,Alavés,,,,,,Head-to-Head,,2025,Barcelona
+22,2025-02-09,,La Liga,Matchweek 23,Sun,Away,,,,Sevilla,,,,,,Head-to-Head,,2025,Barcelona
+23,2025-02-16,,La Liga,Matchweek 24,Sun,Home,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Barcelona
+24,2025-02-23,,La Liga,Matchweek 25,Sun,Away,,,,Las Palmas,,,,,,Head-to-Head,,2025,Barcelona
+25,2025-03-02,,La Liga,Matchweek 26,Sun,Home,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Barcelona
+26,2025-03-09,,La Liga,Matchweek 27,Sun,Home,,,,Osasuna,,,,,,Head-to-Head,,2025,Barcelona
+27,2025-03-16,,La Liga,Matchweek 28,Sun,Away,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Barcelona
+28,2025-03-30,,La Liga,Matchweek 29,Sun,Home,,,,Girona,,,,,,Head-to-Head,,2025,Barcelona
+29,2025-04-06,,La Liga,Matchweek 30,Sun,Home,,,,Betis,,,,,,Head-to-Head,,2025,Barcelona
+30,2025-04-13,,La Liga,Matchweek 31,Sun,Away,,,,Leganés,,,,,,Head-to-Head,,2025,Barcelona
+31,2025-04-20,,La Liga,Matchweek 32,Sun,Home,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Barcelona
+32,2025-04-23,,La Liga,Matchweek 33,Wed,Home,,,,Mallorca,,,,,,Head-to-Head,,2025,Barcelona
+33,2025-05-04,,La Liga,Matchweek 34,Sun,Away,,,,Valladolid,,,,,,Head-to-Head,,2025,Barcelona
+34,2025-05-11,,La Liga,Matchweek 35,Sun,Home,,,,Real Madrid,,,,,,Head-to-Head,,2025,Barcelona
+35,2025-05-14,,La Liga,Matchweek 36,Wed,Away,,,,Espanyol,,,,,,Head-to-Head,,2025,Barcelona
+36,2025-05-18,,La Liga,Matchweek 37,Sun,Home,,,,Villarreal,,,,,,Head-to-Head,,2025,Barcelona
+37,2025-05-25,,La Liga,Matchweek 38,Sun,Away,,,,Athletic Club,,,,,,Head-to-Head,,2025,Barcelona
+0,2024-08-17,21:30,La Liga,Matchweek 1,Sat,Home,,,,Barcelona,,,,,,Head-to-Head,,2025,Valencia
+1,2024-08-23,19:00,La Liga,Matchweek 2,Fri,Away,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Valencia
+2,2024-08-28,19:00,La Liga,Matchweek 3,Wed,Away,,,,Athletic Club,,,,,,Head-to-Head,,2025,Valencia
+3,2024-08-31,21:30,La Liga,Matchweek 4,Sat,Home,,,,Villarreal,,,,,,Head-to-Head,,2025,Valencia
+4,2024-09-15,,La Liga,Matchweek 5,Sun,Away,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Valencia
+5,2024-09-22,,La Liga,Matchweek 6,Sun,Home,,,,Girona,,,,,,Head-to-Head,,2025,Valencia
+6,2024-09-25,,La Liga,Matchweek 7,Wed,Home,,,,Osasuna,,,,,,Head-to-Head,,2025,Valencia
+7,2024-09-29,,La Liga,Matchweek 8,Sun,Away,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Valencia
+8,2024-10-06,,La Liga,Matchweek 9,Sun,Away,,,,Leganés,,,,,,Head-to-Head,,2025,Valencia
+9,2024-10-20,,La Liga,Matchweek 10,Sun,Home,,,,Las Palmas,,,,,,Head-to-Head,,2025,Valencia
+10,2024-10-27,,La Liga,Matchweek 11,Sun,Away,,,,Getafe,,,,,,Head-to-Head,,2025,Valencia
+11,2024-11-03,,La Liga,Matchweek 12,Sun,Home,,,,Real Madrid,,,,,,Head-to-Head,,2025,Valencia
+12,2024-11-10,,La Liga,Matchweek 13,Sun,Away,,,,Espanyol,,,,,,Head-to-Head,,2025,Valencia
+13,2024-11-24,,La Liga,Matchweek 14,Sun,Home,,,,Betis,,,,,,Head-to-Head,,2025,Valencia
+14,2024-12-01,,La Liga,Matchweek 15,Sun,Away,,,,Mallorca,,,,,,Head-to-Head,,2025,Valencia
+15,2024-12-08,,La Liga,Matchweek 16,Sun,Home,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Valencia
+16,2024-12-15,,La Liga,Matchweek 17,Sun,Away,,,,Valladolid,,,,,,Head-to-Head,,2025,Valencia
+17,2024-12-22,,La Liga,Matchweek 18,Sun,Home,,,,Alavés,,,,,,Head-to-Head,,2025,Valencia
+18,2025-01-11,,La Liga,Matchweek 19,Sat,Away,,,,Sevilla,,,,,,Head-to-Head,,2025,Valencia
+19,2025-01-19,,La Liga,Matchweek 20,Sun,Home,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Valencia
+20,2025-01-26,,La Liga,Matchweek 21,Sun,Away,,,,Barcelona,,,,,,Head-to-Head,,2025,Valencia
+21,2025-02-02,,La Liga,Matchweek 22,Sun,Home,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Valencia
+22,2025-02-09,,La Liga,Matchweek 23,Sun,Home,,,,Leganés,,,,,,Head-to-Head,,2025,Valencia
+23,2025-02-16,,La Liga,Matchweek 24,Sun,Away,,,,Villarreal,,,,,,Head-to-Head,,2025,Valencia
+24,2025-02-23,,La Liga,Matchweek 25,Sun,Home,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Valencia
+25,2025-03-02,,La Liga,Matchweek 26,Sun,Away,,,,Osasuna,,,,,,Head-to-Head,,2025,Valencia
+26,2025-03-09,,La Liga,Matchweek 27,Sun,Home,,,,Valladolid,,,,,,Head-to-Head,,2025,Valencia
+27,2025-03-16,,La Liga,Matchweek 28,Sun,Away,,,,Girona,,,,,,Head-to-Head,,2025,Valencia
+28,2025-03-30,,La Liga,Matchweek 29,Sun,Home,,,,Mallorca,,,,,,Head-to-Head,,2025,Valencia
+29,2025-04-06,,La Liga,Matchweek 30,Sun,Away,,,,Real Madrid,,,,,,Head-to-Head,,2025,Valencia
+30,2025-04-13,,La Liga,Matchweek 31,Sun,Home,,,,Sevilla,,,,,,Head-to-Head,,2025,Valencia
+31,2025-04-20,,La Liga,Matchweek 32,Sun,Away,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Valencia
+32,2025-04-23,,La Liga,Matchweek 33,Wed,Home,,,,Espanyol,,,,,,Head-to-Head,,2025,Valencia
+33,2025-05-04,,La Liga,Matchweek 34,Sun,Away,,,,Las Palmas,,,,,,Head-to-Head,,2025,Valencia
+34,2025-05-11,,La Liga,Matchweek 35,Sun,Home,,,,Getafe,,,,,,Head-to-Head,,2025,Valencia
+35,2025-05-14,,La Liga,Matchweek 36,Wed,Away,,,,Alavés,,,,,,Head-to-Head,,2025,Valencia
+36,2025-05-18,,La Liga,Matchweek 37,Sun,Home,,,,Athletic Club,,,,,,Head-to-Head,,2025,Valencia
+37,2025-05-25,,La Liga,Matchweek 38,Sun,Away,,,,Betis,,,,,,Head-to-Head,,2025,Valencia
+0,2024-08-19,21:30,La Liga,Matchweek 1,Mon,Away,,,,Villarreal,,,,,,Head-to-Head,,2025,Atletico Madrid
+1,2024-08-25,21:30,La Liga,Matchweek 2,Sun,Home,,,,Girona,,,,,,Head-to-Head,,2025,Atletico Madrid
+2,2024-08-28,21:30,La Liga,Matchweek 3,Wed,Home,,,,Espanyol,,,,,,Head-to-Head,,2025,Atletico Madrid
+3,2024-08-31,19:00,La Liga,Matchweek 4,Sat,Away,,,,Athletic Club,,,,,,Head-to-Head,,2025,Atletico Madrid
+4,2024-09-15,,La Liga,Matchweek 5,Sun,Home,,,,Valencia,,,,,,Head-to-Head,,2025,Atletico Madrid
+5,2024-09-22,,La Liga,Matchweek 6,Sun,Away,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Atletico Madrid
+6,2024-09-25,,La Liga,Matchweek 7,Wed,Away,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Atletico Madrid
+7,2024-09-29,,La Liga,Matchweek 8,Sun,Home,,,,Real Madrid,,,,,,Head-to-Head,,2025,Atletico Madrid
+8,2024-10-06,,La Liga,Matchweek 9,Sun,Away,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Atletico Madrid
+9,2024-10-20,,La Liga,Matchweek 10,Sun,Home,,,,Leganés,,,,,,Head-to-Head,,2025,Atletico Madrid
+10,2024-10-27,,La Liga,Matchweek 11,Sun,Away,,,,Betis,,,,,,Head-to-Head,,2025,Atletico Madrid
+11,2024-11-03,,La Liga,Matchweek 12,Sun,Home,,,,Las Palmas,,,,,,Head-to-Head,,2025,Atletico Madrid
+12,2024-11-10,,La Liga,Matchweek 13,Sun,Away,,,,Mallorca,,,,,,Head-to-Head,,2025,Atletico Madrid
+13,2024-11-24,,La Liga,Matchweek 14,Sun,Home,,,,Alavés,,,,,,Head-to-Head,,2025,Atletico Madrid
+14,2024-12-01,,La Liga,Matchweek 15,Sun,Away,,,,Valladolid,,,,,,Head-to-Head,,2025,Atletico Madrid
+15,2024-12-08,,La Liga,Matchweek 16,Sun,Home,,,,Sevilla,,,,,,Head-to-Head,,2025,Atletico Madrid
+16,2024-12-15,,La Liga,Matchweek 17,Sun,Home,,,,Getafe,,,,,,Head-to-Head,,2025,Atletico Madrid
+17,2024-12-22,,La Liga,Matchweek 18,Sun,Away,,,,Barcelona,,,,,,Head-to-Head,,2025,Atletico Madrid
+18,2025-01-11,,La Liga,Matchweek 19,Sat,Home,,,,Osasuna,,,,,,Head-to-Head,,2025,Atletico Madrid
+19,2025-01-19,,La Liga,Matchweek 20,Sun,Away,,,,Leganés,,,,,,Head-to-Head,,2025,Atletico Madrid
+20,2025-01-26,,La Liga,Matchweek 21,Sun,Home,,,,Villarreal,,,,,,Head-to-Head,,2025,Atletico Madrid
+21,2025-02-02,,La Liga,Matchweek 22,Sun,Home,,,,Mallorca,,,,,,Head-to-Head,,2025,Atletico Madrid
+22,2025-02-09,,La Liga,Matchweek 23,Sun,Away,,,,Real Madrid,,,,,,Head-to-Head,,2025,Atletico Madrid
+23,2025-02-16,,La Liga,Matchweek 24,Sun,Home,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Atletico Madrid
+24,2025-02-23,,La Liga,Matchweek 25,Sun,Away,,,,Valencia,,,,,,Head-to-Head,,2025,Atletico Madrid
+25,2025-03-02,,La Liga,Matchweek 26,Sun,Home,,,,Athletic Club,,,,,,Head-to-Head,,2025,Atletico Madrid
+26,2025-03-09,,La Liga,Matchweek 27,Sun,Away,,,,Getafe,,,,,,Head-to-Head,,2025,Atletico Madrid
+27,2025-03-16,,La Liga,Matchweek 28,Sun,Home,,,,Barcelona,,,,,,Head-to-Head,,2025,Atletico Madrid
+28,2025-03-30,,La Liga,Matchweek 29,Sun,Away,,,,Espanyol,,,,,,Head-to-Head,,2025,Atletico Madrid
+29,2025-04-06,,La Liga,Matchweek 30,Sun,Away,,,,Sevilla,,,,,,Head-to-Head,,2025,Atletico Madrid
+30,2025-04-13,,La Liga,Matchweek 31,Sun,Home,,,,Valladolid,,,,,,Head-to-Head,,2025,Atletico Madrid
+31,2025-04-20,,La Liga,Matchweek 32,Sun,Away,,,,Las Palmas,,,,,,Head-to-Head,,2025,Atletico Madrid
+32,2025-04-23,,La Liga,Matchweek 33,Wed,Home,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Atletico Madrid
+33,2025-05-04,,La Liga,Matchweek 34,Sun,Away,,,,Alavés,,,,,,Head-to-Head,,2025,Atletico Madrid
+34,2025-05-11,,La Liga,Matchweek 35,Sun,Home,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Atletico Madrid
+35,2025-05-14,,La Liga,Matchweek 36,Wed,Away,,,,Osasuna,,,,,,Head-to-Head,,2025,Atletico Madrid
+36,2025-05-18,,La Liga,Matchweek 37,Sun,Home,,,,Betis,,,,,,Head-to-Head,,2025,Atletico Madrid
+37,2025-05-25,,La Liga,Matchweek 38,Sun,Away,,,,Girona,,,,,,Head-to-Head,,2025,Atletico Madrid
+0,2024-08-17,19:00,La Liga,Matchweek 1,Sat,Home,,,,Leganés,,,,,,Head-to-Head,,2025,Osasuna
+1,2024-08-24,17:00,La Liga,Matchweek 2,Sat,Home,,,,Mallorca,,,,,,Head-to-Head,,2025,Osasuna
+2,2024-08-29,19:00,La Liga,Matchweek 3,Thu,Away,,,,Girona,,,,,,Head-to-Head,,2025,Osasuna
+3,2024-09-01,17:00,La Liga,Matchweek 4,Sun,Home,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Osasuna
+4,2024-09-15,,La Liga,Matchweek 5,Sun,Away,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Osasuna
+5,2024-09-22,,La Liga,Matchweek 6,Sun,Home,,,,Las Palmas,,,,,,Head-to-Head,,2025,Osasuna
+6,2024-09-25,,La Liga,Matchweek 7,Wed,Away,,,,Valencia,,,,,,Head-to-Head,,2025,Osasuna
+7,2024-09-29,,La Liga,Matchweek 8,Sun,Home,,,,Barcelona,,,,,,Head-to-Head,,2025,Osasuna
+8,2024-10-06,,La Liga,Matchweek 9,Sun,Away,,,,Getafe,,,,,,Head-to-Head,,2025,Osasuna
+9,2024-10-20,,La Liga,Matchweek 10,Sun,Home,,,,Betis,,,,,,Head-to-Head,,2025,Osasuna
+10,2024-10-27,,La Liga,Matchweek 11,Sun,Away,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Osasuna
+11,2024-11-03,,La Liga,Matchweek 12,Sun,Home,,,,Valladolid,,,,,,Head-to-Head,,2025,Osasuna
+12,2024-11-10,,La Liga,Matchweek 13,Sun,Away,,,,Real Madrid,,,,,,Head-to-Head,,2025,Osasuna
+13,2024-11-24,,La Liga,Matchweek 14,Sun,Home,,,,Villarreal,,,,,,Head-to-Head,,2025,Osasuna
+14,2024-12-01,,La Liga,Matchweek 15,Sun,Away,,,,Sevilla,,,,,,Head-to-Head,,2025,Osasuna
+15,2024-12-08,,La Liga,Matchweek 16,Sun,Home,,,,Alavés,,,,,,Head-to-Head,,2025,Osasuna
+16,2024-12-15,,La Liga,Matchweek 17,Sun,Away,,,,Espanyol,,,,,,Head-to-Head,,2025,Osasuna
+17,2024-12-22,,La Liga,Matchweek 18,Sun,Home,,,,Athletic Club,,,,,,Head-to-Head,,2025,Osasuna
+18,2025-01-11,,La Liga,Matchweek 19,Sat,Away,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Osasuna
+19,2025-01-19,,La Liga,Matchweek 20,Sun,Home,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Osasuna
+20,2025-01-26,,La Liga,Matchweek 21,Sun,Away,,,,Las Palmas,,,,,,Head-to-Head,,2025,Osasuna
+21,2025-02-02,,La Liga,Matchweek 22,Sun,Home,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Osasuna
+22,2025-02-09,,La Liga,Matchweek 23,Sun,Away,,,,Mallorca,,,,,,Head-to-Head,,2025,Osasuna
+23,2025-02-16,,La Liga,Matchweek 24,Sun,Home,,,,Real Madrid,,,,,,Head-to-Head,,2025,Osasuna
+24,2025-02-23,,La Liga,Matchweek 25,Sun,Away,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Osasuna
+25,2025-03-02,,La Liga,Matchweek 26,Sun,Home,,,,Valencia,,,,,,Head-to-Head,,2025,Osasuna
+26,2025-03-09,,La Liga,Matchweek 27,Sun,Away,,,,Barcelona,,,,,,Head-to-Head,,2025,Osasuna
+27,2025-03-16,,La Liga,Matchweek 28,Sun,Home,,,,Getafe,,,,,,Head-to-Head,,2025,Osasuna
+28,2025-03-30,,La Liga,Matchweek 29,Sun,Away,,,,Athletic Club,,,,,,Head-to-Head,,2025,Osasuna
+29,2025-04-06,,La Liga,Matchweek 30,Sun,Away,,,,Leganés,,,,,,Head-to-Head,,2025,Osasuna
+30,2025-04-13,,La Liga,Matchweek 31,Sun,Home,,,,Girona,,,,,,Head-to-Head,,2025,Osasuna
+31,2025-04-20,,La Liga,Matchweek 32,Sun,Away,,,,Valladolid,,,,,,Head-to-Head,,2025,Osasuna
+32,2025-04-23,,La Liga,Matchweek 33,Wed,Home,,,,Sevilla,,,,,,Head-to-Head,,2025,Osasuna
+33,2025-05-04,,La Liga,Matchweek 34,Sun,Away,,,,Villarreal,,,,,,Head-to-Head,,2025,Osasuna
+34,2025-05-11,,La Liga,Matchweek 35,Sun,Away,,,,Betis,,,,,,Head-to-Head,,2025,Osasuna
+35,2025-05-14,,La Liga,Matchweek 36,Wed,Home,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Osasuna
+36,2025-05-18,,La Liga,Matchweek 37,Sun,Home,,,,Espanyol,,,,,,Head-to-Head,,2025,Osasuna
+37,2025-05-25,,La Liga,Matchweek 38,Sun,Away,,,,Alavés,,,,,,Head-to-Head,,2025,Osasuna
+0,2024-08-18,21:30,La Liga,Matchweek 1,Sun,Home,,,,Real Madrid,,,,,,Head-to-Head,,2025,Mallorca
+1,2024-08-24,17:00,La Liga,Matchweek 2,Sat,Away,,,,Osasuna,,,,,,Head-to-Head,,2025,Mallorca
+2,2024-08-27,19:00,La Liga,Matchweek 3,Tue,Home,,,,Sevilla,,,,,,Head-to-Head,,2025,Mallorca
+3,2024-08-31,21:30,La Liga,Matchweek 4,Sat,Away,,,,Leganés,,,,,,Head-to-Head,,2025,Mallorca
+4,2024-09-15,,La Liga,Matchweek 5,Sun,Home,,,,Villarreal,,,,,,Head-to-Head,,2025,Mallorca
+5,2024-09-22,,La Liga,Matchweek 6,Sun,Away,,,,Betis,,,,,,Head-to-Head,,2025,Mallorca
+6,2024-09-25,,La Liga,Matchweek 7,Wed,Home,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Mallorca
+7,2024-09-29,,La Liga,Matchweek 8,Sun,Away,,,,Valladolid,,,,,,Head-to-Head,,2025,Mallorca
+8,2024-10-06,,La Liga,Matchweek 9,Sun,Away,,,,Espanyol,,,,,,Head-to-Head,,2025,Mallorca
+9,2024-10-20,,La Liga,Matchweek 10,Sun,Home,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Mallorca
+10,2024-10-27,,La Liga,Matchweek 11,Sun,Home,,,,Athletic Club,,,,,,Head-to-Head,,2025,Mallorca
+11,2024-11-03,,La Liga,Matchweek 12,Sun,Away,,,,Alavés,,,,,,Head-to-Head,,2025,Mallorca
+12,2024-11-10,,La Liga,Matchweek 13,Sun,Home,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Mallorca
+13,2024-11-24,,La Liga,Matchweek 14,Sun,Away,,,,Las Palmas,,,,,,Head-to-Head,,2025,Mallorca
+14,2024-12-01,,La Liga,Matchweek 15,Sun,Home,,,,Valencia,,,,,,Head-to-Head,,2025,Mallorca
+15,2024-12-08,,La Liga,Matchweek 16,Sun,Away,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Mallorca
+16,2024-12-15,,La Liga,Matchweek 17,Sun,Home,,,,Girona,,,,,,Head-to-Head,,2025,Mallorca
+17,2024-12-22,,La Liga,Matchweek 18,Sun,Away,,,,Getafe,,,,,,Head-to-Head,,2025,Mallorca
+18,2025-01-11,,La Liga,Matchweek 19,Sat,Home,,,,Barcelona,,,,,,Head-to-Head,,2025,Mallorca
+19,2025-01-19,,La Liga,Matchweek 20,Sun,Away,,,,Villarreal,,,,,,Head-to-Head,,2025,Mallorca
+20,2025-01-26,,La Liga,Matchweek 21,Sun,Home,,,,Betis,,,,,,Head-to-Head,,2025,Mallorca
+21,2025-02-02,,La Liga,Matchweek 22,Sun,Away,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Mallorca
+22,2025-02-09,,La Liga,Matchweek 23,Sun,Home,,,,Osasuna,,,,,,Head-to-Head,,2025,Mallorca
+23,2025-02-16,,La Liga,Matchweek 24,Sun,Home,,,,Las Palmas,,,,,,Head-to-Head,,2025,Mallorca
+24,2025-02-23,,La Liga,Matchweek 25,Sun,Away,,,,Sevilla,,,,,,Head-to-Head,,2025,Mallorca
+25,2025-03-02,,La Liga,Matchweek 26,Sun,Home,,,,Alavés,,,,,,Head-to-Head,,2025,Mallorca
+26,2025-03-09,,La Liga,Matchweek 27,Sun,Away,,,,Athletic Club,,,,,,Head-to-Head,,2025,Mallorca
+27,2025-03-16,,La Liga,Matchweek 28,Sun,Home,,,,Espanyol,,,,,,Head-to-Head,,2025,Mallorca
+28,2025-03-30,,La Liga,Matchweek 29,Sun,Away,,,,Valencia,,,,,,Head-to-Head,,2025,Mallorca
+29,2025-04-06,,La Liga,Matchweek 30,Sun,Home,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Mallorca
+30,2025-04-13,,La Liga,Matchweek 31,Sun,Away,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Mallorca
+31,2025-04-20,,La Liga,Matchweek 32,Sun,Home,,,,Leganés,,,,,,Head-to-Head,,2025,Mallorca
+32,2025-04-23,,La Liga,Matchweek 33,Wed,Away,,,,Barcelona,,,,,,Head-to-Head,,2025,Mallorca
+33,2025-05-04,,La Liga,Matchweek 34,Sun,Away,,,,Girona,,,,,,Head-to-Head,,2025,Mallorca
+34,2025-05-11,,La Liga,Matchweek 35,Sun,Home,,,,Valladolid,,,,,,Head-to-Head,,2025,Mallorca
+35,2025-05-14,,La Liga,Matchweek 36,Wed,Away,,,,Real Madrid,,,,,,Head-to-Head,,2025,Mallorca
+36,2025-05-18,,La Liga,Matchweek 37,Sun,Home,,,,Getafe,,,,,,Head-to-Head,,2025,Mallorca
+37,2025-05-25,,La Liga,Matchweek 38,Sun,Away,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Mallorca
+0,2024-08-16,20:30,La Liga,Matchweek 1,Fri,Away,,,,Las Palmas,,,,,,Head-to-Head,,2025,Sevilla
+1,2024-08-23,21:30,La Liga,Matchweek 2,Fri,Home,,,,Villarreal,,,,,,Head-to-Head,,2025,Sevilla
+2,2024-08-27,19:00,La Liga,Matchweek 3,Tue,Away,,,,Mallorca,,,,,,Head-to-Head,,2025,Sevilla
+3,2024-09-01,19:00,La Liga,Matchweek 4,Sun,Home,,,,Girona,,,,,,Head-to-Head,,2025,Sevilla
+4,2024-09-15,,La Liga,Matchweek 5,Sun,Home,,,,Getafe,,,,,,Head-to-Head,,2025,Sevilla
+5,2024-09-22,,La Liga,Matchweek 6,Sun,Away,,,,Alavés,,,,,,Head-to-Head,,2025,Sevilla
+6,2024-09-25,,La Liga,Matchweek 7,Wed,Home,,,,Valladolid,,,,,,Head-to-Head,,2025,Sevilla
+7,2024-09-29,,La Liga,Matchweek 8,Sun,Away,,,,Athletic Club,,,,,,Head-to-Head,,2025,Sevilla
+8,2024-10-06,,La Liga,Matchweek 9,Sun,Home,,,,Betis,,,,,,Head-to-Head,,2025,Sevilla
+9,2024-10-20,,La Liga,Matchweek 10,Sun,Away,,,,Barcelona,,,,,,Head-to-Head,,2025,Sevilla
+10,2024-10-27,,La Liga,Matchweek 11,Sun,Away,,,,Espanyol,,,,,,Head-to-Head,,2025,Sevilla
+11,2024-11-03,,La Liga,Matchweek 12,Sun,Home,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Sevilla
+12,2024-11-10,,La Liga,Matchweek 13,Sun,Away,,,,Leganés,,,,,,Head-to-Head,,2025,Sevilla
+13,2024-11-24,,La Liga,Matchweek 14,Sun,Home,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Sevilla
+14,2024-12-01,,La Liga,Matchweek 15,Sun,Home,,,,Osasuna,,,,,,Head-to-Head,,2025,Sevilla
+15,2024-12-08,,La Liga,Matchweek 16,Sun,Away,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Sevilla
+16,2024-12-15,,La Liga,Matchweek 17,Sun,Home,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Sevilla
+17,2024-12-22,,La Liga,Matchweek 18,Sun,Away,,,,Real Madrid,,,,,,Head-to-Head,,2025,Sevilla
+18,2025-01-11,,La Liga,Matchweek 19,Sat,Home,,,,Valencia,,,,,,Head-to-Head,,2025,Sevilla
+19,2025-01-19,,La Liga,Matchweek 20,Sun,Away,,,,Girona,,,,,,Head-to-Head,,2025,Sevilla
+20,2025-01-26,,La Liga,Matchweek 21,Sun,Home,,,,Espanyol,,,,,,Head-to-Head,,2025,Sevilla
+21,2025-02-02,,La Liga,Matchweek 22,Sun,Away,,,,Getafe,,,,,,Head-to-Head,,2025,Sevilla
+22,2025-02-09,,La Liga,Matchweek 23,Sun,Home,,,,Barcelona,,,,,,Head-to-Head,,2025,Sevilla
+23,2025-02-16,,La Liga,Matchweek 24,Sun,Away,,,,Valladolid,,,,,,Head-to-Head,,2025,Sevilla
+24,2025-02-23,,La Liga,Matchweek 25,Sun,Home,,,,Mallorca,,,,,,Head-to-Head,,2025,Sevilla
+25,2025-03-02,,La Liga,Matchweek 26,Sun,Away,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Sevilla
+26,2025-03-09,,La Liga,Matchweek 27,Sun,Away,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Sevilla
+27,2025-03-16,,La Liga,Matchweek 28,Sun,Home,,,,Athletic Club,,,,,,Head-to-Head,,2025,Sevilla
+28,2025-03-30,,La Liga,Matchweek 29,Sun,Away,,,,Betis,,,,,,Head-to-Head,,2025,Sevilla
+29,2025-04-06,,La Liga,Matchweek 30,Sun,Home,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Sevilla
+30,2025-04-13,,La Liga,Matchweek 31,Sun,Away,,,,Valencia,,,,,,Head-to-Head,,2025,Sevilla
+31,2025-04-20,,La Liga,Matchweek 32,Sun,Home,,,,Alavés,,,,,,Head-to-Head,,2025,Sevilla
+32,2025-04-23,,La Liga,Matchweek 33,Wed,Away,,,,Osasuna,,,,,,Head-to-Head,,2025,Sevilla
+33,2025-05-04,,La Liga,Matchweek 34,Sun,Home,,,,Leganés,,,,,,Head-to-Head,,2025,Sevilla
+34,2025-05-11,,La Liga,Matchweek 35,Sun,Away,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Sevilla
+35,2025-05-14,,La Liga,Matchweek 36,Wed,Home,,,,Las Palmas,,,,,,Head-to-Head,,2025,Sevilla
+36,2025-05-18,,La Liga,Matchweek 37,Sun,Home,,,,Real Madrid,,,,,,Head-to-Head,,2025,Sevilla
+37,2025-05-25,,La Liga,Matchweek 38,Sun,Away,,,,Villarreal,,,,,,Head-to-Head,,2025,Sevilla
+0,2024-08-15,19:00,La Liga,Matchweek 1,Thu,Home,,,,Getafe,,,,,,Head-to-Head,,2025,Athletic Club
+1,2024-08-24,19:00,La Liga,Matchweek 2,Sat,Away,,,,Barcelona,,,,,,Head-to-Head,,2025,Athletic Club
+2,2024-08-28,19:00,La Liga,Matchweek 3,Wed,Home,,,,Valencia,,,,,,Head-to-Head,,2025,Athletic Club
+3,2024-08-31,19:00,La Liga,Matchweek 4,Sat,Home,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Athletic Club
+4,2024-09-15,,La Liga,Matchweek 5,Sun,Away,,,,Las Palmas,,,,,,Head-to-Head,,2025,Athletic Club
+5,2024-09-22,,La Liga,Matchweek 6,Sun,Home,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Athletic Club
+6,2024-09-25,,La Liga,Matchweek 7,Wed,Away,,,,Leganés,,,,,,Head-to-Head,,2025,Athletic Club
+7,2024-09-29,,La Liga,Matchweek 8,Sun,Home,,,,Sevilla,,,,,,Head-to-Head,,2025,Athletic Club
+8,2024-10-06,,La Liga,Matchweek 9,Sun,Away,,,,Girona,,,,,,Head-to-Head,,2025,Athletic Club
+9,2024-10-20,,La Liga,Matchweek 10,Sun,Home,,,,Espanyol,,,,,,Head-to-Head,,2025,Athletic Club
+10,2024-10-27,,La Liga,Matchweek 11,Sun,Away,,,,Mallorca,,,,,,Head-to-Head,,2025,Athletic Club
+11,2024-11-03,,La Liga,Matchweek 12,Sun,Home,,,,Betis,,,,,,Head-to-Head,,2025,Athletic Club
+12,2024-11-10,,La Liga,Matchweek 13,Sun,Away,,,,Valladolid,,,,,,Head-to-Head,,2025,Athletic Club
+13,2024-11-24,,La Liga,Matchweek 14,Sun,Home,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Athletic Club
+14,2024-12-01,,La Liga,Matchweek 15,Sun,Away,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Athletic Club
+15,2024-12-08,,La Liga,Matchweek 16,Sun,Home,,,,Villarreal,,,,,,Head-to-Head,,2025,Athletic Club
+16,2024-12-15,,La Liga,Matchweek 17,Sun,Away,,,,Alavés,,,,,,Head-to-Head,,2025,Athletic Club
+17,2024-12-22,,La Liga,Matchweek 18,Sun,Away,,,,Osasuna,,,,,,Head-to-Head,,2025,Athletic Club
+18,2025-01-11,,La Liga,Matchweek 19,Sat,Home,,,,Real Madrid,,,,,,Head-to-Head,,2025,Athletic Club
+19,2025-01-19,,La Liga,Matchweek 20,Sun,Away,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Athletic Club
+20,2025-01-26,,La Liga,Matchweek 21,Sun,Home,,,,Leganés,,,,,,Head-to-Head,,2025,Athletic Club
+21,2025-02-02,,La Liga,Matchweek 22,Sun,Away,,,,Betis,,,,,,Head-to-Head,,2025,Athletic Club
+22,2025-02-09,,La Liga,Matchweek 23,Sun,Home,,,,Girona,,,,,,Head-to-Head,,2025,Athletic Club
+23,2025-02-16,,La Liga,Matchweek 24,Sun,Away,,,,Espanyol,,,,,,Head-to-Head,,2025,Athletic Club
+24,2025-02-23,,La Liga,Matchweek 25,Sun,Home,,,,Valladolid,,,,,,Head-to-Head,,2025,Athletic Club
+25,2025-03-02,,La Liga,Matchweek 26,Sun,Away,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Athletic Club
+26,2025-03-09,,La Liga,Matchweek 27,Sun,Home,,,,Mallorca,,,,,,Head-to-Head,,2025,Athletic Club
+27,2025-03-16,,La Liga,Matchweek 28,Sun,Away,,,,Sevilla,,,,,,Head-to-Head,,2025,Athletic Club
+28,2025-03-30,,La Liga,Matchweek 29,Sun,Home,,,,Osasuna,,,,,,Head-to-Head,,2025,Athletic Club
+29,2025-04-06,,La Liga,Matchweek 30,Sun,Away,,,,Villarreal,,,,,,Head-to-Head,,2025,Athletic Club
+30,2025-04-13,,La Liga,Matchweek 31,Sun,Home,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Athletic Club
+31,2025-04-20,,La Liga,Matchweek 32,Sun,Away,,,,Real Madrid,,,,,,Head-to-Head,,2025,Athletic Club
+32,2025-04-23,,La Liga,Matchweek 33,Wed,Home,,,,Las Palmas,,,,,,Head-to-Head,,2025,Athletic Club
+33,2025-05-04,,La Liga,Matchweek 34,Sun,Away,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Athletic Club
+34,2025-05-11,,La Liga,Matchweek 35,Sun,Home,,,,Alavés,,,,,,Head-to-Head,,2025,Athletic Club
+35,2025-05-14,,La Liga,Matchweek 36,Wed,Away,,,,Getafe,,,,,,Head-to-Head,,2025,Athletic Club
+36,2025-05-18,,La Liga,Matchweek 37,Sun,Away,,,,Valencia,,,,,,Head-to-Head,,2025,Athletic Club
+37,2025-05-25,,La Liga,Matchweek 38,Sun,Home,,,,Barcelona,,,,,,Head-to-Head,,2025,Athletic Club
+0,2024-08-15,19:00,La Liga,Matchweek 1,Thu,Away,,,,Athletic Club,,,,,,Head-to-Head,,2025,Getafe
+1,2024-08-24,21:30,La Liga,Matchweek 2,Sat,Home,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Getafe
+2,2024-08-28,,La Liga,Matchweek 3,Wed,Away,,,,Betis,,,,,,Head-to-Head,,2025,Getafe
+3,2024-09-01,19:00,La Liga,Matchweek 4,Sun,Home,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Getafe
+4,2024-09-15,,La Liga,Matchweek 5,Sun,Away,,,,Sevilla,,,,,,Head-to-Head,,2025,Getafe
+5,2024-09-22,,La Liga,Matchweek 6,Sun,Home,,,,Leganés,,,,,,Head-to-Head,,2025,Getafe
+6,2024-09-25,,La Liga,Matchweek 7,Wed,Away,,,,Barcelona,,,,,,Head-to-Head,,2025,Getafe
+7,2024-09-29,,La Liga,Matchweek 8,Sun,Home,,,,Alavés,,,,,,Head-to-Head,,2025,Getafe
+8,2024-10-06,,La Liga,Matchweek 9,Sun,Home,,,,Osasuna,,,,,,Head-to-Head,,2025,Getafe
+9,2024-10-20,,La Liga,Matchweek 10,Sun,Away,,,,Villarreal,,,,,,Head-to-Head,,2025,Getafe
+10,2024-10-27,,La Liga,Matchweek 11,Sun,Home,,,,Valencia,,,,,,Head-to-Head,,2025,Getafe
+11,2024-11-03,,La Liga,Matchweek 12,Sun,Away,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Getafe
+12,2024-11-10,,La Liga,Matchweek 13,Sun,Home,,,,Girona,,,,,,Head-to-Head,,2025,Getafe
+13,2024-11-24,,La Liga,Matchweek 14,Sun,Home,,,,Valladolid,,,,,,Head-to-Head,,2025,Getafe
+14,2024-12-01,,La Liga,Matchweek 15,Sun,Away,,,,Real Madrid,,,,,,Head-to-Head,,2025,Getafe
+15,2024-12-08,,La Liga,Matchweek 16,Sun,Home,,,,Espanyol,,,,,,Head-to-Head,,2025,Getafe
+16,2024-12-15,,La Liga,Matchweek 17,Sun,Away,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Getafe
+17,2024-12-22,,La Liga,Matchweek 18,Sun,Home,,,,Mallorca,,,,,,Head-to-Head,,2025,Getafe
+18,2025-01-11,,La Liga,Matchweek 19,Sat,Away,,,,Las Palmas,,,,,,Head-to-Head,,2025,Getafe
+19,2025-01-19,,La Liga,Matchweek 20,Sun,Home,,,,Barcelona,,,,,,Head-to-Head,,2025,Getafe
+20,2025-01-26,,La Liga,Matchweek 21,Sun,Away,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Getafe
+21,2025-02-02,,La Liga,Matchweek 22,Sun,Home,,,,Sevilla,,,,,,Head-to-Head,,2025,Getafe
+22,2025-02-09,,La Liga,Matchweek 23,Sun,Away,,,,Alavés,,,,,,Head-to-Head,,2025,Getafe
+23,2025-02-16,,La Liga,Matchweek 24,Sun,Away,,,,Girona,,,,,,Head-to-Head,,2025,Getafe
+24,2025-02-23,,La Liga,Matchweek 25,Sun,Home,,,,Betis,,,,,,Head-to-Head,,2025,Getafe
+25,2025-03-02,,La Liga,Matchweek 26,Sun,Away,,,,Leganés,,,,,,Head-to-Head,,2025,Getafe
+26,2025-03-09,,La Liga,Matchweek 27,Sun,Home,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Getafe
+27,2025-03-16,,La Liga,Matchweek 28,Sun,Away,,,,Osasuna,,,,,,Head-to-Head,,2025,Getafe
+28,2025-03-30,,La Liga,Matchweek 29,Sun,Home,,,,Villarreal,,,,,,Head-to-Head,,2025,Getafe
+29,2025-04-06,,La Liga,Matchweek 30,Sun,Away,,,,Valladolid,,,,,,Head-to-Head,,2025,Getafe
+30,2025-04-13,,La Liga,Matchweek 31,Sun,Home,,,,Las Palmas,,,,,,Head-to-Head,,2025,Getafe
+31,2025-04-20,,La Liga,Matchweek 32,Sun,Away,,,,Espanyol,,,,,,Head-to-Head,,2025,Getafe
+32,2025-04-23,,La Liga,Matchweek 33,Wed,Home,,,,Real Madrid,,,,,,Head-to-Head,,2025,Getafe
+33,2025-05-04,,La Liga,Matchweek 34,Sun,Away,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Getafe
+34,2025-05-11,,La Liga,Matchweek 35,Sun,Away,,,,Valencia,,,,,,Head-to-Head,,2025,Getafe
+35,2025-05-14,,La Liga,Matchweek 36,Wed,Home,,,,Athletic Club,,,,,,Head-to-Head,,2025,Getafe
+36,2025-05-18,,La Liga,Matchweek 37,Sun,Away,,,,Mallorca,,,,,,Head-to-Head,,2025,Getafe
+37,2025-05-25,,La Liga,Matchweek 38,Sun,Home,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Getafe
+0,2024-08-18,19:00,La Liga,Matchweek 1,Sun,Home,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Real Sociedad
+1,2024-08-24,21:30,La Liga,Matchweek 2,Sat,Away,,,,Espanyol,,,,,,Head-to-Head,,2025,Real Sociedad
+2,2024-08-28,21:30,La Liga,Matchweek 3,Wed,Home,,,,Alavés,,,,,,Head-to-Head,,2025,Real Sociedad
+3,2024-09-01,19:00,La Liga,Matchweek 4,Sun,Away,,,,Getafe,,,,,,Head-to-Head,,2025,Real Sociedad
+4,2024-09-15,,La Liga,Matchweek 5,Sun,Home,,,,Real Madrid,,,,,,Head-to-Head,,2025,Real Sociedad
+5,2024-09-22,,La Liga,Matchweek 6,Sun,Away,,,,Valladolid,,,,,,Head-to-Head,,2025,Real Sociedad
+6,2024-09-25,,La Liga,Matchweek 7,Wed,Away,,,,Mallorca,,,,,,Head-to-Head,,2025,Real Sociedad
+7,2024-09-29,,La Liga,Matchweek 8,Sun,Home,,,,Valencia,,,,,,Head-to-Head,,2025,Real Sociedad
+8,2024-10-06,,La Liga,Matchweek 9,Sun,Home,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Real Sociedad
+9,2024-10-20,,La Liga,Matchweek 10,Sun,Away,,,,Girona,,,,,,Head-to-Head,,2025,Real Sociedad
+10,2024-10-27,,La Liga,Matchweek 11,Sun,Home,,,,Osasuna,,,,,,Head-to-Head,,2025,Real Sociedad
+11,2024-11-03,,La Liga,Matchweek 12,Sun,Away,,,,Sevilla,,,,,,Head-to-Head,,2025,Real Sociedad
+12,2024-11-10,,La Liga,Matchweek 13,Sun,Home,,,,Barcelona,,,,,,Head-to-Head,,2025,Real Sociedad
+13,2024-11-24,,La Liga,Matchweek 14,Sun,Away,,,,Athletic Club,,,,,,Head-to-Head,,2025,Real Sociedad
+14,2024-12-01,,La Liga,Matchweek 15,Sun,Home,,,,Betis,,,,,,Head-to-Head,,2025,Real Sociedad
+15,2024-12-08,,La Liga,Matchweek 16,Sun,Away,,,,Leganés,,,,,,Head-to-Head,,2025,Real Sociedad
+16,2024-12-15,,La Liga,Matchweek 17,Sun,Home,,,,Las Palmas,,,,,,Head-to-Head,,2025,Real Sociedad
+17,2024-12-22,,La Liga,Matchweek 18,Sun,Away,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Real Sociedad
+18,2025-01-11,,La Liga,Matchweek 19,Sat,Home,,,,Villarreal,,,,,,Head-to-Head,,2025,Real Sociedad
+19,2025-01-19,,La Liga,Matchweek 20,Sun,Away,,,,Valencia,,,,,,Head-to-Head,,2025,Real Sociedad
+20,2025-01-26,,La Liga,Matchweek 21,Sun,Home,,,,Getafe,,,,,,Head-to-Head,,2025,Real Sociedad
+21,2025-02-02,,La Liga,Matchweek 22,Sun,Away,,,,Osasuna,,,,,,Head-to-Head,,2025,Real Sociedad
+22,2025-02-09,,La Liga,Matchweek 23,Sun,Home,,,,Espanyol,,,,,,Head-to-Head,,2025,Real Sociedad
+23,2025-02-16,,La Liga,Matchweek 24,Sun,Away,,,,Betis,,,,,,Head-to-Head,,2025,Real Sociedad
+24,2025-02-23,,La Liga,Matchweek 25,Sun,Home,,,,Leganés,,,,,,Head-to-Head,,2025,Real Sociedad
+25,2025-03-02,,La Liga,Matchweek 26,Sun,Away,,,,Barcelona,,,,,,Head-to-Head,,2025,Real Sociedad
+26,2025-03-09,,La Liga,Matchweek 27,Sun,Home,,,,Sevilla,,,,,,Head-to-Head,,2025,Real Sociedad
+27,2025-03-16,,La Liga,Matchweek 28,Sun,Away,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Real Sociedad
+28,2025-03-30,,La Liga,Matchweek 29,Sun,Home,,,,Valladolid,,,,,,Head-to-Head,,2025,Real Sociedad
+29,2025-04-06,,La Liga,Matchweek 30,Sun,Away,,,,Las Palmas,,,,,,Head-to-Head,,2025,Real Sociedad
+30,2025-04-13,,La Liga,Matchweek 31,Sun,Home,,,,Mallorca,,,,,,Head-to-Head,,2025,Real Sociedad
+31,2025-04-20,,La Liga,Matchweek 32,Sun,Away,,,,Villarreal,,,,,,Head-to-Head,,2025,Real Sociedad
+32,2025-04-23,,La Liga,Matchweek 33,Wed,Away,,,,Alavés,,,,,,Head-to-Head,,2025,Real Sociedad
+33,2025-05-04,,La Liga,Matchweek 34,Sun,Home,,,,Athletic Club,,,,,,Head-to-Head,,2025,Real Sociedad
+34,2025-05-11,,La Liga,Matchweek 35,Sun,Away,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Real Sociedad
+35,2025-05-14,,La Liga,Matchweek 36,Wed,Home,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Real Sociedad
+36,2025-05-18,,La Liga,Matchweek 37,Sun,Home,,,,Girona,,,,,,Head-to-Head,,2025,Real Sociedad
+37,2025-05-25,,La Liga,Matchweek 38,Sun,Away,,,,Real Madrid,,,,,,Head-to-Head,,2025,Real Sociedad
+0,2024-08-15,21:30,La Liga,Matchweek 1,Thu,Home,,,,Girona,,,,,,Head-to-Head,,2025,Real Betis
+1,2024-08-25,19:00,La Liga,Matchweek 2,Sun,Away,,,,Alavés,,,,,,Head-to-Head,,2025,Real Betis
+2,2024-08-28,,La Liga,Matchweek 3,Wed,Home,,,,Getafe,,,,,,Head-to-Head,,2025,Real Betis
+3,2024-09-01,21:30,La Liga,Matchweek 4,Sun,Away,,,,Real Madrid,,,,,,Head-to-Head,,2025,Real Betis
+4,2024-09-15,,La Liga,Matchweek 5,Sun,Home,,,,Leganés,,,,,,Head-to-Head,,2025,Real Betis
+5,2024-09-22,,La Liga,Matchweek 6,Sun,Home,,,,Mallorca,,,,,,Head-to-Head,,2025,Real Betis
+6,2024-09-25,,La Liga,Matchweek 7,Wed,Away,,,,Las Palmas,,,,,,Head-to-Head,,2025,Real Betis
+7,2024-09-29,,La Liga,Matchweek 8,Sun,Home,,,,Espanyol,,,,,,Head-to-Head,,2025,Real Betis
+8,2024-10-06,,La Liga,Matchweek 9,Sun,Away,,,,Sevilla,,,,,,Head-to-Head,,2025,Real Betis
+9,2024-10-20,,La Liga,Matchweek 10,Sun,Away,,,,Osasuna,,,,,,Head-to-Head,,2025,Real Betis
+10,2024-10-27,,La Liga,Matchweek 11,Sun,Home,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Real Betis
+11,2024-11-03,,La Liga,Matchweek 12,Sun,Away,,,,Athletic Club,,,,,,Head-to-Head,,2025,Real Betis
+12,2024-11-10,,La Liga,Matchweek 13,Sun,Home,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Real Betis
+13,2024-11-24,,La Liga,Matchweek 14,Sun,Away,,,,Valencia,,,,,,Head-to-Head,,2025,Real Betis
+14,2024-12-01,,La Liga,Matchweek 15,Sun,Away,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Real Betis
+15,2024-12-08,,La Liga,Matchweek 16,Sun,Home,,,,Barcelona,,,,,,Head-to-Head,,2025,Real Betis
+16,2024-12-15,,La Liga,Matchweek 17,Sun,Away,,,,Villarreal,,,,,,Head-to-Head,,2025,Real Betis
+17,2024-12-22,,La Liga,Matchweek 18,Sun,Home,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Real Betis
+18,2025-01-11,,La Liga,Matchweek 19,Sat,Away,,,,Valladolid,,,,,,Head-to-Head,,2025,Real Betis
+19,2025-01-19,,La Liga,Matchweek 20,Sun,Home,,,,Alavés,,,,,,Head-to-Head,,2025,Real Betis
+20,2025-01-26,,La Liga,Matchweek 21,Sun,Away,,,,Mallorca,,,,,,Head-to-Head,,2025,Real Betis
+21,2025-02-02,,La Liga,Matchweek 22,Sun,Home,,,,Athletic Club,,,,,,Head-to-Head,,2025,Real Betis
+22,2025-02-09,,La Liga,Matchweek 23,Sun,Away,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Real Betis
+23,2025-02-16,,La Liga,Matchweek 24,Sun,Home,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Real Betis
+24,2025-02-23,,La Liga,Matchweek 25,Sun,Away,,,,Getafe,,,,,,Head-to-Head,,2025,Real Betis
+25,2025-03-02,,La Liga,Matchweek 26,Sun,Home,,,,Real Madrid,,,,,,Head-to-Head,,2025,Real Betis
+26,2025-03-09,,La Liga,Matchweek 27,Sun,Home,,,,Las Palmas,,,,,,Head-to-Head,,2025,Real Betis
+27,2025-03-16,,La Liga,Matchweek 28,Sun,Away,,,,Leganés,,,,,,Head-to-Head,,2025,Real Betis
+28,2025-03-30,,La Liga,Matchweek 29,Sun,Home,,,,Sevilla,,,,,,Head-to-Head,,2025,Real Betis
+29,2025-04-06,,La Liga,Matchweek 30,Sun,Away,,,,Barcelona,,,,,,Head-to-Head,,2025,Real Betis
+30,2025-04-13,,La Liga,Matchweek 31,Sun,Home,,,,Villarreal,,,,,,Head-to-Head,,2025,Real Betis
+31,2025-04-20,,La Liga,Matchweek 32,Sun,Away,,,,Girona,,,,,,Head-to-Head,,2025,Real Betis
+32,2025-04-23,,La Liga,Matchweek 33,Wed,Home,,,,Valladolid,,,,,,Head-to-Head,,2025,Real Betis
+33,2025-05-04,,La Liga,Matchweek 34,Sun,Away,,,,Espanyol,,,,,,Head-to-Head,,2025,Real Betis
+34,2025-05-11,,La Liga,Matchweek 35,Sun,Home,,,,Osasuna,,,,,,Head-to-Head,,2025,Real Betis
+35,2025-05-14,,La Liga,Matchweek 36,Wed,Away,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Real Betis
+36,2025-05-18,,La Liga,Matchweek 37,Sun,Away,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Real Betis
+37,2025-05-25,,La Liga,Matchweek 38,Sun,Home,,,,Valencia,,,,,,Head-to-Head,,2025,Real Betis
+0,2024-08-19,19:00,La Liga,Matchweek 1,Mon,Away,,,,Valladolid,,,,,,Head-to-Head,,2025,Espanyol
+1,2024-08-24,21:30,La Liga,Matchweek 2,Sat,Home,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Espanyol
+2,2024-08-28,21:30,La Liga,Matchweek 3,Wed,Away,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Espanyol
+3,2024-08-31,19:00,La Liga,Matchweek 4,Sat,Home,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Espanyol
+4,2024-09-15,,La Liga,Matchweek 5,Sun,Home,,,,Alavés,,,,,,Head-to-Head,,2025,Espanyol
+5,2024-09-22,,La Liga,Matchweek 6,Sun,Away,,,,Real Madrid,,,,,,Head-to-Head,,2025,Espanyol
+6,2024-09-25,,La Liga,Matchweek 7,Wed,Home,,,,Villarreal,,,,,,Head-to-Head,,2025,Espanyol
+7,2024-09-29,,La Liga,Matchweek 8,Sun,Away,,,,Betis,,,,,,Head-to-Head,,2025,Espanyol
+8,2024-10-06,,La Liga,Matchweek 9,Sun,Home,,,,Mallorca,,,,,,Head-to-Head,,2025,Espanyol
+9,2024-10-20,,La Liga,Matchweek 10,Sun,Away,,,,Athletic Club,,,,,,Head-to-Head,,2025,Espanyol
+10,2024-10-27,,La Liga,Matchweek 11,Sun,Home,,,,Sevilla,,,,,,Head-to-Head,,2025,Espanyol
+11,2024-11-03,,La Liga,Matchweek 12,Sun,Away,,,,Barcelona,,,,,,Head-to-Head,,2025,Espanyol
+12,2024-11-10,,La Liga,Matchweek 13,Sun,Home,,,,Valencia,,,,,,Head-to-Head,,2025,Espanyol
+13,2024-11-24,,La Liga,Matchweek 14,Sun,Away,,,,Girona,,,,,,Head-to-Head,,2025,Espanyol
+14,2024-12-01,,La Liga,Matchweek 15,Sun,Home,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Espanyol
+15,2024-12-08,,La Liga,Matchweek 16,Sun,Away,,,,Getafe,,,,,,Head-to-Head,,2025,Espanyol
+16,2024-12-15,,La Liga,Matchweek 17,Sun,Home,,,,Osasuna,,,,,,Head-to-Head,,2025,Espanyol
+17,2024-12-22,,La Liga,Matchweek 18,Sun,Away,,,,Las Palmas,,,,,,Head-to-Head,,2025,Espanyol
+18,2025-01-11,,La Liga,Matchweek 19,Sat,Home,,,,Leganés,,,,,,Head-to-Head,,2025,Espanyol
+19,2025-01-19,,La Liga,Matchweek 20,Sun,Home,,,,Valladolid,,,,,,Head-to-Head,,2025,Espanyol
+20,2025-01-26,,La Liga,Matchweek 21,Sun,Away,,,,Sevilla,,,,,,Head-to-Head,,2025,Espanyol
+21,2025-02-02,,La Liga,Matchweek 22,Sun,Home,,,,Real Madrid,,,,,,Head-to-Head,,2025,Espanyol
+22,2025-02-09,,La Liga,Matchweek 23,Sun,Away,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Espanyol
+23,2025-02-16,,La Liga,Matchweek 24,Sun,Home,,,,Athletic Club,,,,,,Head-to-Head,,2025,Espanyol
+24,2025-02-23,,La Liga,Matchweek 25,Sun,Away,,,,Alavés,,,,,,Head-to-Head,,2025,Espanyol
+25,2025-03-02,,La Liga,Matchweek 26,Sun,Away,,,,Villarreal,,,,,,Head-to-Head,,2025,Espanyol
+26,2025-03-09,,La Liga,Matchweek 27,Sun,Home,,,,Girona,,,,,,Head-to-Head,,2025,Espanyol
+27,2025-03-16,,La Liga,Matchweek 28,Sun,Away,,,,Mallorca,,,,,,Head-to-Head,,2025,Espanyol
+28,2025-03-30,,La Liga,Matchweek 29,Sun,Home,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Espanyol
+29,2025-04-06,,La Liga,Matchweek 30,Sun,Away,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Espanyol
+30,2025-04-13,,La Liga,Matchweek 31,Sun,Away,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Espanyol
+31,2025-04-20,,La Liga,Matchweek 32,Sun,Home,,,,Getafe,,,,,,Head-to-Head,,2025,Espanyol
+32,2025-04-23,,La Liga,Matchweek 33,Wed,Away,,,,Valencia,,,,,,Head-to-Head,,2025,Espanyol
+33,2025-05-04,,La Liga,Matchweek 34,Sun,Home,,,,Betis,,,,,,Head-to-Head,,2025,Espanyol
+34,2025-05-11,,La Liga,Matchweek 35,Sun,Away,,,,Leganés,,,,,,Head-to-Head,,2025,Espanyol
+35,2025-05-14,,La Liga,Matchweek 36,Wed,Home,,,,Barcelona,,,,,,Head-to-Head,,2025,Espanyol
+36,2025-05-18,,La Liga,Matchweek 37,Sun,Away,,,,Osasuna,,,,,,Head-to-Head,,2025,Espanyol
+37,2025-05-25,,La Liga,Matchweek 38,Sun,Home,,,,Las Palmas,,,,,,Head-to-Head,,2025,Espanyol
+0,2024-08-18,19:00,La Liga,Matchweek 1,Sun,Away,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Rayo Vallecano
+1,2024-08-24,21:30,La Liga,Matchweek 2,Sat,Away,,,,Getafe,,,,,,Head-to-Head,,2025,Rayo Vallecano
+2,2024-08-27,21:30,La Liga,Matchweek 3,Tue,Home,,,,Barcelona,,,,,,Head-to-Head,,2025,Rayo Vallecano
+3,2024-08-31,19:00,La Liga,Matchweek 4,Sat,Away,,,,Espanyol,,,,,,Head-to-Head,,2025,Rayo Vallecano
+4,2024-09-15,,La Liga,Matchweek 5,Sun,Home,,,,Osasuna,,,,,,Head-to-Head,,2025,Rayo Vallecano
+5,2024-09-22,,La Liga,Matchweek 6,Sun,Home,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Rayo Vallecano
+6,2024-09-25,,La Liga,Matchweek 7,Wed,Away,,,,Girona,,,,,,Head-to-Head,,2025,Rayo Vallecano
+7,2024-09-29,,La Liga,Matchweek 8,Sun,Home,,,,Leganés,,,,,,Head-to-Head,,2025,Rayo Vallecano
+8,2024-10-06,,La Liga,Matchweek 9,Sun,Away,,,,Valladolid,,,,,,Head-to-Head,,2025,Rayo Vallecano
+9,2024-10-20,,La Liga,Matchweek 10,Sun,Away,,,,Mallorca,,,,,,Head-to-Head,,2025,Rayo Vallecano
+10,2024-10-27,,La Liga,Matchweek 11,Sun,Home,,,,Alavés,,,,,,Head-to-Head,,2025,Rayo Vallecano
+11,2024-11-03,,La Liga,Matchweek 12,Sun,Away,,,,Villarreal,,,,,,Head-to-Head,,2025,Rayo Vallecano
+12,2024-11-10,,La Liga,Matchweek 13,Sun,Home,,,,Las Palmas,,,,,,Head-to-Head,,2025,Rayo Vallecano
+13,2024-11-24,,La Liga,Matchweek 14,Sun,Away,,,,Sevilla,,,,,,Head-to-Head,,2025,Rayo Vallecano
+14,2024-12-01,,La Liga,Matchweek 15,Sun,Home,,,,Athletic Club,,,,,,Head-to-Head,,2025,Rayo Vallecano
+15,2024-12-08,,La Liga,Matchweek 16,Sun,Away,,,,Valencia,,,,,,Head-to-Head,,2025,Rayo Vallecano
+16,2024-12-15,,La Liga,Matchweek 17,Sun,Home,,,,Real Madrid,,,,,,Head-to-Head,,2025,Rayo Vallecano
+17,2024-12-22,,La Liga,Matchweek 18,Sun,Away,,,,Betis,,,,,,Head-to-Head,,2025,Rayo Vallecano
+18,2025-01-11,,La Liga,Matchweek 19,Sat,Home,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Rayo Vallecano
+19,2025-01-19,,La Liga,Matchweek 20,Sun,Away,,,,Osasuna,,,,,,Head-to-Head,,2025,Rayo Vallecano
+20,2025-01-26,,La Liga,Matchweek 21,Sun,Home,,,,Girona,,,,,,Head-to-Head,,2025,Rayo Vallecano
+21,2025-02-02,,La Liga,Matchweek 22,Sun,Away,,,,Leganés,,,,,,Head-to-Head,,2025,Rayo Vallecano
+22,2025-02-09,,La Liga,Matchweek 23,Sun,Home,,,,Valladolid,,,,,,Head-to-Head,,2025,Rayo Vallecano
+23,2025-02-16,,La Liga,Matchweek 24,Sun,Away,,,,Barcelona,,,,,,Head-to-Head,,2025,Rayo Vallecano
+24,2025-02-23,,La Liga,Matchweek 25,Sun,Home,,,,Villarreal,,,,,,Head-to-Head,,2025,Rayo Vallecano
+25,2025-03-02,,La Liga,Matchweek 26,Sun,Home,,,,Sevilla,,,,,,Head-to-Head,,2025,Rayo Vallecano
+26,2025-03-09,,La Liga,Matchweek 27,Sun,Away,,,,Real Madrid,,,,,,Head-to-Head,,2025,Rayo Vallecano
+27,2025-03-16,,La Liga,Matchweek 28,Sun,Home,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Rayo Vallecano
+28,2025-03-30,,La Liga,Matchweek 29,Sun,Away,,,,Alavés,,,,,,Head-to-Head,,2025,Rayo Vallecano
+29,2025-04-06,,La Liga,Matchweek 30,Sun,Home,,,,Espanyol,,,,,,Head-to-Head,,2025,Rayo Vallecano
+30,2025-04-13,,La Liga,Matchweek 31,Sun,Away,,,,Athletic Club,,,,,,Head-to-Head,,2025,Rayo Vallecano
+31,2025-04-20,,La Liga,Matchweek 32,Sun,Home,,,,Valencia,,,,,,Head-to-Head,,2025,Rayo Vallecano
+32,2025-04-23,,La Liga,Matchweek 33,Wed,Away,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Rayo Vallecano
+33,2025-05-04,,La Liga,Matchweek 34,Sun,Home,,,,Getafe,,,,,,Head-to-Head,,2025,Rayo Vallecano
+34,2025-05-11,,La Liga,Matchweek 35,Sun,Away,,,,Las Palmas,,,,,,Head-to-Head,,2025,Rayo Vallecano
+35,2025-05-14,,La Liga,Matchweek 36,Wed,Home,,,,Betis,,,,,,Head-to-Head,,2025,Rayo Vallecano
+36,2025-05-18,,La Liga,Matchweek 37,Sun,Away,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Rayo Vallecano
+37,2025-05-25,,La Liga,Matchweek 38,Sun,Home,,,,Mallorca,,,,,,Head-to-Head,,2025,Rayo Vallecano
+0,2024-08-16,19:00,La Liga,Matchweek 1,Fri,Home,,,,Alavés,,,,,,Head-to-Head,,2025,Celta Vigo
+1,2024-08-23,19:00,La Liga,Matchweek 2,Fri,Home,,,,Valencia,,,,,,Head-to-Head,,2025,Celta Vigo
+2,2024-08-26,21:30,La Liga,Matchweek 3,Mon,Away,,,,Villarreal,,,,,,Head-to-Head,,2025,Celta Vigo
+3,2024-09-01,17:00,La Liga,Matchweek 4,Sun,Away,,,,Osasuna,,,,,,Head-to-Head,,2025,Celta Vigo
+4,2024-09-15,,La Liga,Matchweek 5,Sun,Home,,,,Valladolid,,,,,,Head-to-Head,,2025,Celta Vigo
+5,2024-09-22,,La Liga,Matchweek 6,Sun,Away,,,,Athletic Club,,,,,,Head-to-Head,,2025,Celta Vigo
+6,2024-09-25,,La Liga,Matchweek 7,Wed,Home,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Celta Vigo
+7,2024-09-29,,La Liga,Matchweek 8,Sun,Home,,,,Girona,,,,,,Head-to-Head,,2025,Celta Vigo
+8,2024-10-06,,La Liga,Matchweek 9,Sun,Away,,,,Las Palmas,,,,,,Head-to-Head,,2025,Celta Vigo
+9,2024-10-20,,La Liga,Matchweek 10,Sun,Home,,,,Real Madrid,,,,,,Head-to-Head,,2025,Celta Vigo
+10,2024-10-27,,La Liga,Matchweek 11,Sun,Away,,,,Leganés,,,,,,Head-to-Head,,2025,Celta Vigo
+11,2024-11-03,,La Liga,Matchweek 12,Sun,Home,,,,Getafe,,,,,,Head-to-Head,,2025,Celta Vigo
+12,2024-11-10,,La Liga,Matchweek 13,Sun,Away,,,,Betis,,,,,,Head-to-Head,,2025,Celta Vigo
+13,2024-11-24,,La Liga,Matchweek 14,Sun,Home,,,,Barcelona,,,,,,Head-to-Head,,2025,Celta Vigo
+14,2024-12-01,,La Liga,Matchweek 15,Sun,Away,,,,Espanyol,,,,,,Head-to-Head,,2025,Celta Vigo
+15,2024-12-08,,La Liga,Matchweek 16,Sun,Home,,,,Mallorca,,,,,,Head-to-Head,,2025,Celta Vigo
+16,2024-12-15,,La Liga,Matchweek 17,Sun,Away,,,,Sevilla,,,,,,Head-to-Head,,2025,Celta Vigo
+17,2024-12-22,,La Liga,Matchweek 18,Sun,Home,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Celta Vigo
+18,2025-01-11,,La Liga,Matchweek 19,Sat,Away,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Celta Vigo
+19,2025-01-19,,La Liga,Matchweek 20,Sun,Home,,,,Athletic Club,,,,,,Head-to-Head,,2025,Celta Vigo
+20,2025-01-26,,La Liga,Matchweek 21,Sun,Away,,,,Alavés,,,,,,Head-to-Head,,2025,Celta Vigo
+21,2025-02-02,,La Liga,Matchweek 22,Sun,Away,,,,Valencia,,,,,,Head-to-Head,,2025,Celta Vigo
+22,2025-02-09,,La Liga,Matchweek 23,Sun,Home,,,,Betis,,,,,,Head-to-Head,,2025,Celta Vigo
+23,2025-02-16,,La Liga,Matchweek 24,Sun,Away,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Celta Vigo
+24,2025-02-23,,La Liga,Matchweek 25,Sun,Home,,,,Osasuna,,,,,,Head-to-Head,,2025,Celta Vigo
+25,2025-03-02,,La Liga,Matchweek 26,Sun,Away,,,,Girona,,,,,,Head-to-Head,,2025,Celta Vigo
+26,2025-03-09,,La Liga,Matchweek 27,Sun,Home,,,,Leganés,,,,,,Head-to-Head,,2025,Celta Vigo
+27,2025-03-16,,La Liga,Matchweek 28,Sun,Away,,,,Valladolid,,,,,,Head-to-Head,,2025,Celta Vigo
+28,2025-03-30,,La Liga,Matchweek 29,Sun,Home,,,,Las Palmas,,,,,,Head-to-Head,,2025,Celta Vigo
+29,2025-04-06,,La Liga,Matchweek 30,Sun,Away,,,,Mallorca,,,,,,Head-to-Head,,2025,Celta Vigo
+30,2025-04-13,,La Liga,Matchweek 31,Sun,Home,,,,Espanyol,,,,,,Head-to-Head,,2025,Celta Vigo
+31,2025-04-20,,La Liga,Matchweek 32,Sun,Away,,,,Barcelona,,,,,,Head-to-Head,,2025,Celta Vigo
+32,2025-04-23,,La Liga,Matchweek 33,Wed,Home,,,,Villarreal,,,,,,Head-to-Head,,2025,Celta Vigo
+33,2025-05-04,,La Liga,Matchweek 34,Sun,Away,,,,Real Madrid,,,,,,Head-to-Head,,2025,Celta Vigo
+34,2025-05-11,,La Liga,Matchweek 35,Sun,Home,,,,Sevilla,,,,,,Head-to-Head,,2025,Celta Vigo
+35,2025-05-14,,La Liga,Matchweek 36,Wed,Away,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Celta Vigo
+36,2025-05-18,,La Liga,Matchweek 37,Sun,Home,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Celta Vigo
+37,2025-05-25,,La Liga,Matchweek 38,Sun,Away,,,,Getafe,,,,,,Head-to-Head,,2025,Celta Vigo
+0,2024-08-19,19:00,La Liga,Matchweek 1,Mon,Home,,,,Espanyol,,,,,,Head-to-Head,,2025,Valladolid
+1,2024-08-25,17:00,La Liga,Matchweek 2,Sun,Away,,,,Real Madrid,,,,,,Head-to-Head,,2025,Valladolid
+2,2024-08-28,19:00,La Liga,Matchweek 3,Wed,Home,,,,Leganés,,,,,,Head-to-Head,,2025,Valladolid
+3,2024-08-31,17:00,La Liga,Matchweek 4,Sat,Away,,,,Barcelona,,,,,,Head-to-Head,,2025,Valladolid
+4,2024-09-15,,La Liga,Matchweek 5,Sun,Away,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Valladolid
+5,2024-09-22,,La Liga,Matchweek 6,Sun,Home,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Valladolid
+6,2024-09-25,,La Liga,Matchweek 7,Wed,Away,,,,Sevilla,,,,,,Head-to-Head,,2025,Valladolid
+7,2024-09-29,,La Liga,Matchweek 8,Sun,Home,,,,Mallorca,,,,,,Head-to-Head,,2025,Valladolid
+8,2024-10-06,,La Liga,Matchweek 9,Sun,Home,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Valladolid
+9,2024-10-20,,La Liga,Matchweek 10,Sun,Away,,,,Alavés,,,,,,Head-to-Head,,2025,Valladolid
+10,2024-10-27,,La Liga,Matchweek 11,Sun,Home,,,,Villarreal,,,,,,Head-to-Head,,2025,Valladolid
+11,2024-11-03,,La Liga,Matchweek 12,Sun,Away,,,,Osasuna,,,,,,Head-to-Head,,2025,Valladolid
+12,2024-11-10,,La Liga,Matchweek 13,Sun,Home,,,,Athletic Club,,,,,,Head-to-Head,,2025,Valladolid
+13,2024-11-24,,La Liga,Matchweek 14,Sun,Away,,,,Getafe,,,,,,Head-to-Head,,2025,Valladolid
+14,2024-12-01,,La Liga,Matchweek 15,Sun,Home,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Valladolid
+15,2024-12-08,,La Liga,Matchweek 16,Sun,Away,,,,Las Palmas,,,,,,Head-to-Head,,2025,Valladolid
+16,2024-12-15,,La Liga,Matchweek 17,Sun,Home,,,,Valencia,,,,,,Head-to-Head,,2025,Valladolid
+17,2024-12-22,,La Liga,Matchweek 18,Sun,Away,,,,Girona,,,,,,Head-to-Head,,2025,Valladolid
+18,2025-01-11,,La Liga,Matchweek 19,Sat,Home,,,,Betis,,,,,,Head-to-Head,,2025,Valladolid
+19,2025-01-19,,La Liga,Matchweek 20,Sun,Away,,,,Espanyol,,,,,,Head-to-Head,,2025,Valladolid
+20,2025-01-26,,La Liga,Matchweek 21,Sun,Home,,,,Real Madrid,,,,,,Head-to-Head,,2025,Valladolid
+21,2025-02-02,,La Liga,Matchweek 22,Sun,Away,,,,Villarreal,,,,,,Head-to-Head,,2025,Valladolid
+22,2025-02-09,,La Liga,Matchweek 23,Sun,Away,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Valladolid
+23,2025-02-16,,La Liga,Matchweek 24,Sun,Home,,,,Sevilla,,,,,,Head-to-Head,,2025,Valladolid
+24,2025-02-23,,La Liga,Matchweek 25,Sun,Away,,,,Athletic Club,,,,,,Head-to-Head,,2025,Valladolid
+25,2025-03-02,,La Liga,Matchweek 26,Sun,Home,,,,Las Palmas,,,,,,Head-to-Head,,2025,Valladolid
+26,2025-03-09,,La Liga,Matchweek 27,Sun,Away,,,,Valencia,,,,,,Head-to-Head,,2025,Valladolid
+27,2025-03-16,,La Liga,Matchweek 28,Sun,Home,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Valladolid
+28,2025-03-30,,La Liga,Matchweek 29,Sun,Away,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Valladolid
+29,2025-04-06,,La Liga,Matchweek 30,Sun,Home,,,,Getafe,,,,,,Head-to-Head,,2025,Valladolid
+30,2025-04-13,,La Liga,Matchweek 31,Sun,Away,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Valladolid
+31,2025-04-20,,La Liga,Matchweek 32,Sun,Home,,,,Osasuna,,,,,,Head-to-Head,,2025,Valladolid
+32,2025-04-23,,La Liga,Matchweek 33,Wed,Away,,,,Betis,,,,,,Head-to-Head,,2025,Valladolid
+33,2025-05-04,,La Liga,Matchweek 34,Sun,Home,,,,Barcelona,,,,,,Head-to-Head,,2025,Valladolid
+34,2025-05-11,,La Liga,Matchweek 35,Sun,Away,,,,Mallorca,,,,,,Head-to-Head,,2025,Valladolid
+35,2025-05-14,,La Liga,Matchweek 36,Wed,Home,,,,Girona,,,,,,Head-to-Head,,2025,Valladolid
+36,2025-05-18,,La Liga,Matchweek 37,Sun,Home,,,,Alavés,,,,,,Head-to-Head,,2025,Valladolid
+37,2025-05-25,,La Liga,Matchweek 38,Sun,Away,,,,Leganés,,,,,,Head-to-Head,,2025,Valladolid
+0,2024-08-15,21:30,La Liga,Matchweek 1,Thu,Away,,,,Betis,,,,,,Head-to-Head,,2025,Girona
+1,2024-08-25,21:30,La Liga,Matchweek 2,Sun,Away,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Girona
+2,2024-08-29,19:00,La Liga,Matchweek 3,Thu,Home,,,,Osasuna,,,,,,Head-to-Head,,2025,Girona
+3,2024-09-01,19:00,La Liga,Matchweek 4,Sun,Away,,,,Sevilla,,,,,,Head-to-Head,,2025,Girona
+4,2024-09-15,,La Liga,Matchweek 5,Sun,Home,,,,Barcelona,,,,,,Head-to-Head,,2025,Girona
+5,2024-09-22,,La Liga,Matchweek 6,Sun,Away,,,,Valencia,,,,,,Head-to-Head,,2025,Girona
+6,2024-09-25,,La Liga,Matchweek 7,Wed,Home,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Girona
+7,2024-09-29,,La Liga,Matchweek 8,Sun,Away,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Girona
+8,2024-10-06,,La Liga,Matchweek 9,Sun,Home,,,,Athletic Club,,,,,,Head-to-Head,,2025,Girona
+9,2024-10-20,,La Liga,Matchweek 10,Sun,Home,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Girona
+10,2024-10-27,,La Liga,Matchweek 11,Sun,Away,,,,Las Palmas,,,,,,Head-to-Head,,2025,Girona
+11,2024-11-03,,La Liga,Matchweek 12,Sun,Home,,,,Leganés,,,,,,Head-to-Head,,2025,Girona
+12,2024-11-10,,La Liga,Matchweek 13,Sun,Away,,,,Getafe,,,,,,Head-to-Head,,2025,Girona
+13,2024-11-24,,La Liga,Matchweek 14,Sun,Home,,,,Espanyol,,,,,,Head-to-Head,,2025,Girona
+14,2024-12-01,,La Liga,Matchweek 15,Sun,Away,,,,Villarreal,,,,,,Head-to-Head,,2025,Girona
+15,2024-12-08,,La Liga,Matchweek 16,Sun,Home,,,,Real Madrid,,,,,,Head-to-Head,,2025,Girona
+16,2024-12-15,,La Liga,Matchweek 17,Sun,Away,,,,Mallorca,,,,,,Head-to-Head,,2025,Girona
+17,2024-12-22,,La Liga,Matchweek 18,Sun,Home,,,,Valladolid,,,,,,Head-to-Head,,2025,Girona
+18,2025-01-11,,La Liga,Matchweek 19,Sat,Away,,,,Alavés,,,,,,Head-to-Head,,2025,Girona
+19,2025-01-19,,La Liga,Matchweek 20,Sun,Home,,,,Sevilla,,,,,,Head-to-Head,,2025,Girona
+20,2025-01-26,,La Liga,Matchweek 21,Sun,Away,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Girona
+21,2025-02-02,,La Liga,Matchweek 22,Sun,Home,,,,Las Palmas,,,,,,Head-to-Head,,2025,Girona
+22,2025-02-09,,La Liga,Matchweek 23,Sun,Away,,,,Athletic Club,,,,,,Head-to-Head,,2025,Girona
+23,2025-02-16,,La Liga,Matchweek 24,Sun,Home,,,,Getafe,,,,,,Head-to-Head,,2025,Girona
+24,2025-02-23,,La Liga,Matchweek 25,Sun,Away,,,,Real Madrid,,,,,,Head-to-Head,,2025,Girona
+25,2025-03-02,,La Liga,Matchweek 26,Sun,Home,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Girona
+26,2025-03-09,,La Liga,Matchweek 27,Sun,Away,,,,Espanyol,,,,,,Head-to-Head,,2025,Girona
+27,2025-03-16,,La Liga,Matchweek 28,Sun,Home,,,,Valencia,,,,,,Head-to-Head,,2025,Girona
+28,2025-03-30,,La Liga,Matchweek 29,Sun,Away,,,,Barcelona,,,,,,Head-to-Head,,2025,Girona
+29,2025-04-06,,La Liga,Matchweek 30,Sun,Home,,,,Alavés,,,,,,Head-to-Head,,2025,Girona
+30,2025-04-13,,La Liga,Matchweek 31,Sun,Away,,,,Osasuna,,,,,,Head-to-Head,,2025,Girona
+31,2025-04-20,,La Liga,Matchweek 32,Sun,Home,,,,Betis,,,,,,Head-to-Head,,2025,Girona
+32,2025-04-23,,La Liga,Matchweek 33,Wed,Away,,,,Leganés,,,,,,Head-to-Head,,2025,Girona
+33,2025-05-04,,La Liga,Matchweek 34,Sun,Home,,,,Mallorca,,,,,,Head-to-Head,,2025,Girona
+34,2025-05-11,,La Liga,Matchweek 35,Sun,Home,,,,Villarreal,,,,,,Head-to-Head,,2025,Girona
+35,2025-05-14,,La Liga,Matchweek 36,Wed,Away,,,,Valladolid,,,,,,Head-to-Head,,2025,Girona
+36,2025-05-18,,La Liga,Matchweek 37,Sun,Away,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Girona
+37,2025-05-25,,La Liga,Matchweek 38,Sun,Home,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Girona
+0,2024-08-19,21:30,La Liga,Matchweek 1,Mon,Home,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Villarreal
+1,2024-08-23,21:30,La Liga,Matchweek 2,Fri,Away,,,,Sevilla,,,,,,Head-to-Head,,2025,Villarreal
+2,2024-08-26,21:30,La Liga,Matchweek 3,Mon,Home,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Villarreal
+3,2024-08-31,21:30,La Liga,Matchweek 4,Sat,Away,,,,Valencia,,,,,,Head-to-Head,,2025,Villarreal
+4,2024-09-15,,La Liga,Matchweek 5,Sun,Away,,,,Mallorca,,,,,,Head-to-Head,,2025,Villarreal
+5,2024-09-22,,La Liga,Matchweek 6,Sun,Home,,,,Barcelona,,,,,,Head-to-Head,,2025,Villarreal
+6,2024-09-25,,La Liga,Matchweek 7,Wed,Away,,,,Espanyol,,,,,,Head-to-Head,,2025,Villarreal
+7,2024-09-29,,La Liga,Matchweek 8,Sun,Home,,,,Las Palmas,,,,,,Head-to-Head,,2025,Villarreal
+8,2024-10-06,,La Liga,Matchweek 9,Sun,Away,,,,Real Madrid,,,,,,Head-to-Head,,2025,Villarreal
+9,2024-10-20,,La Liga,Matchweek 10,Sun,Home,,,,Getafe,,,,,,Head-to-Head,,2025,Villarreal
+10,2024-10-27,,La Liga,Matchweek 11,Sun,Away,,,,Valladolid,,,,,,Head-to-Head,,2025,Villarreal
+11,2024-11-03,,La Liga,Matchweek 12,Sun,Home,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Villarreal
+12,2024-11-10,,La Liga,Matchweek 13,Sun,Home,,,,Alavés,,,,,,Head-to-Head,,2025,Villarreal
+13,2024-11-24,,La Liga,Matchweek 14,Sun,Away,,,,Osasuna,,,,,,Head-to-Head,,2025,Villarreal
+14,2024-12-01,,La Liga,Matchweek 15,Sun,Home,,,,Girona,,,,,,Head-to-Head,,2025,Villarreal
+15,2024-12-08,,La Liga,Matchweek 16,Sun,Away,,,,Athletic Club,,,,,,Head-to-Head,,2025,Villarreal
+16,2024-12-15,,La Liga,Matchweek 17,Sun,Home,,,,Betis,,,,,,Head-to-Head,,2025,Villarreal
+17,2024-12-22,,La Liga,Matchweek 18,Sun,Away,,,,Leganés,,,,,,Head-to-Head,,2025,Villarreal
+18,2025-01-11,,La Liga,Matchweek 19,Sat,Away,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Villarreal
+19,2025-01-19,,La Liga,Matchweek 20,Sun,Home,,,,Mallorca,,,,,,Head-to-Head,,2025,Villarreal
+20,2025-01-26,,La Liga,Matchweek 21,Sun,Away,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Villarreal
+21,2025-02-02,,La Liga,Matchweek 22,Sun,Home,,,,Valladolid,,,,,,Head-to-Head,,2025,Villarreal
+22,2025-02-09,,La Liga,Matchweek 23,Sun,Away,,,,Las Palmas,,,,,,Head-to-Head,,2025,Villarreal
+23,2025-02-16,,La Liga,Matchweek 24,Sun,Home,,,,Valencia,,,,,,Head-to-Head,,2025,Villarreal
+24,2025-02-23,,La Liga,Matchweek 25,Sun,Away,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Villarreal
+25,2025-03-02,,La Liga,Matchweek 26,Sun,Home,,,,Espanyol,,,,,,Head-to-Head,,2025,Villarreal
+26,2025-03-09,,La Liga,Matchweek 27,Sun,Away,,,,Alavés,,,,,,Head-to-Head,,2025,Villarreal
+27,2025-03-16,,La Liga,Matchweek 28,Sun,Home,,,,Real Madrid,,,,,,Head-to-Head,,2025,Villarreal
+28,2025-03-30,,La Liga,Matchweek 29,Sun,Away,,,,Getafe,,,,,,Head-to-Head,,2025,Villarreal
+29,2025-04-06,,La Liga,Matchweek 30,Sun,Home,,,,Athletic Club,,,,,,Head-to-Head,,2025,Villarreal
+30,2025-04-13,,La Liga,Matchweek 31,Sun,Away,,,,Betis,,,,,,Head-to-Head,,2025,Villarreal
+31,2025-04-20,,La Liga,Matchweek 32,Sun,Home,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Villarreal
+32,2025-04-23,,La Liga,Matchweek 33,Wed,Away,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Villarreal
+33,2025-05-04,,La Liga,Matchweek 34,Sun,Home,,,,Osasuna,,,,,,Head-to-Head,,2025,Villarreal
+34,2025-05-11,,La Liga,Matchweek 35,Sun,Away,,,,Girona,,,,,,Head-to-Head,,2025,Villarreal
+35,2025-05-14,,La Liga,Matchweek 36,Wed,Home,,,,Leganés,,,,,,Head-to-Head,,2025,Villarreal
+36,2025-05-18,,La Liga,Matchweek 37,Sun,Away,,,,Barcelona,,,,,,Head-to-Head,,2025,Villarreal
+37,2025-05-25,,La Liga,Matchweek 38,Sun,Home,,,,Sevilla,,,,,,Head-to-Head,,2025,Villarreal
+0,2024-08-16,20:30,La Liga,Matchweek 1,Fri,Home,,,,Sevilla,,,,,,Head-to-Head,,2025,Las Palmas
+1,2024-08-25,19:00,La Liga,Matchweek 2,Sun,Away,,,,Leganés,,,,,,Head-to-Head,,2025,Las Palmas
+2,2024-08-29,20:30,La Liga,Matchweek 3,Thu,Home,,,,Real Madrid,,,,,,Head-to-Head,,2025,Las Palmas
+3,2024-09-01,17:00,La Liga,Matchweek 4,Sun,Away,,,,Alavés,,,,,,Head-to-Head,,2025,Las Palmas
+4,2024-09-15,,La Liga,Matchweek 5,Sun,Home,,,,Athletic Club,,,,,,Head-to-Head,,2025,Las Palmas
+5,2024-09-22,,La Liga,Matchweek 6,Sun,Away,,,,Osasuna,,,,,,Head-to-Head,,2025,Las Palmas
+6,2024-09-25,,La Liga,Matchweek 7,Wed,Home,,,,Betis,,,,,,Head-to-Head,,2025,Las Palmas
+7,2024-09-29,,La Liga,Matchweek 8,Sun,Away,,,,Villarreal,,,,,,Head-to-Head,,2025,Las Palmas
+8,2024-10-06,,La Liga,Matchweek 9,Sun,Home,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Las Palmas
+9,2024-10-20,,La Liga,Matchweek 10,Sun,Away,,,,Valencia,,,,,,Head-to-Head,,2025,Las Palmas
+10,2024-10-27,,La Liga,Matchweek 11,Sun,Home,,,,Girona,,,,,,Head-to-Head,,2025,Las Palmas
+11,2024-11-03,,La Liga,Matchweek 12,Sun,Away,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Las Palmas
+12,2024-11-10,,La Liga,Matchweek 13,Sun,Away,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Las Palmas
+13,2024-11-24,,La Liga,Matchweek 14,Sun,Home,,,,Mallorca,,,,,,Head-to-Head,,2025,Las Palmas
+14,2024-12-01,,La Liga,Matchweek 15,Sun,Away,,,,Barcelona,,,,,,Head-to-Head,,2025,Las Palmas
+15,2024-12-08,,La Liga,Matchweek 16,Sun,Home,,,,Valladolid,,,,,,Head-to-Head,,2025,Las Palmas
+16,2024-12-15,,La Liga,Matchweek 17,Sun,Away,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Las Palmas
+17,2024-12-22,,La Liga,Matchweek 18,Sun,Home,,,,Espanyol,,,,,,Head-to-Head,,2025,Las Palmas
+18,2025-01-11,,La Liga,Matchweek 19,Sat,Home,,,,Getafe,,,,,,Head-to-Head,,2025,Las Palmas
+19,2025-01-19,,La Liga,Matchweek 20,Sun,Away,,,,Real Madrid,,,,,,Head-to-Head,,2025,Las Palmas
+20,2025-01-26,,La Liga,Matchweek 21,Sun,Home,,,,Osasuna,,,,,,Head-to-Head,,2025,Las Palmas
+21,2025-02-02,,La Liga,Matchweek 22,Sun,Away,,,,Girona,,,,,,Head-to-Head,,2025,Las Palmas
+22,2025-02-09,,La Liga,Matchweek 23,Sun,Home,,,,Villarreal,,,,,,Head-to-Head,,2025,Las Palmas
+23,2025-02-16,,La Liga,Matchweek 24,Sun,Away,,,,Mallorca,,,,,,Head-to-Head,,2025,Las Palmas
+24,2025-02-23,,La Liga,Matchweek 25,Sun,Home,,,,Barcelona,,,,,,Head-to-Head,,2025,Las Palmas
+25,2025-03-02,,La Liga,Matchweek 26,Sun,Away,,,,Valladolid,,,,,,Head-to-Head,,2025,Las Palmas
+26,2025-03-09,,La Liga,Matchweek 27,Sun,Away,,,,Betis,,,,,,Head-to-Head,,2025,Las Palmas
+27,2025-03-16,,La Liga,Matchweek 28,Sun,Home,,,,Alavés,,,,,,Head-to-Head,,2025,Las Palmas
+28,2025-03-30,,La Liga,Matchweek 29,Sun,Away,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Las Palmas
+29,2025-04-06,,La Liga,Matchweek 30,Sun,Home,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Las Palmas
+30,2025-04-13,,La Liga,Matchweek 31,Sun,Away,,,,Getafe,,,,,,Head-to-Head,,2025,Las Palmas
+31,2025-04-20,,La Liga,Matchweek 32,Sun,Home,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Las Palmas
+32,2025-04-23,,La Liga,Matchweek 33,Wed,Away,,,,Athletic Club,,,,,,Head-to-Head,,2025,Las Palmas
+33,2025-05-04,,La Liga,Matchweek 34,Sun,Home,,,,Valencia,,,,,,Head-to-Head,,2025,Las Palmas
+34,2025-05-11,,La Liga,Matchweek 35,Sun,Home,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Las Palmas
+35,2025-05-14,,La Liga,Matchweek 36,Wed,Away,,,,Sevilla,,,,,,Head-to-Head,,2025,Las Palmas
+36,2025-05-18,,La Liga,Matchweek 37,Sun,Home,,,,Leganés,,,,,,Head-to-Head,,2025,Las Palmas
+37,2025-05-25,,La Liga,Matchweek 38,Sun,Away,,,,Espanyol,,,,,,Head-to-Head,,2025,Las Palmas
+0,2024-08-16,19:00,La Liga,Matchweek 1,Fri,Away,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Alaves
+1,2024-08-25,19:00,La Liga,Matchweek 2,Sun,Home,,,,Betis,,,,,,Head-to-Head,,2025,Alaves
+2,2024-08-28,21:30,La Liga,Matchweek 3,Wed,Away,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Alaves
+3,2024-09-01,17:00,La Liga,Matchweek 4,Sun,Home,,,,Las Palmas,,,,,,Head-to-Head,,2025,Alaves
+4,2024-09-15,,La Liga,Matchweek 5,Sun,Away,,,,Espanyol,,,,,,Head-to-Head,,2025,Alaves
+5,2024-09-22,,La Liga,Matchweek 6,Sun,Home,,,,Sevilla,,,,,,Head-to-Head,,2025,Alaves
+6,2024-09-25,,La Liga,Matchweek 7,Wed,Away,,,,Real Madrid,,,,,,Head-to-Head,,2025,Alaves
+7,2024-09-29,,La Liga,Matchweek 8,Sun,Away,,,,Getafe,,,,,,Head-to-Head,,2025,Alaves
+8,2024-10-06,,La Liga,Matchweek 9,Sun,Home,,,,Barcelona,,,,,,Head-to-Head,,2025,Alaves
+9,2024-10-20,,La Liga,Matchweek 10,Sun,Home,,,,Valladolid,,,,,,Head-to-Head,,2025,Alaves
+10,2024-10-27,,La Liga,Matchweek 11,Sun,Away,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Alaves
+11,2024-11-03,,La Liga,Matchweek 12,Sun,Home,,,,Mallorca,,,,,,Head-to-Head,,2025,Alaves
+12,2024-11-10,,La Liga,Matchweek 13,Sun,Away,,,,Villarreal,,,,,,Head-to-Head,,2025,Alaves
+13,2024-11-24,,La Liga,Matchweek 14,Sun,Away,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Alaves
+14,2024-12-01,,La Liga,Matchweek 15,Sun,Home,,,,Leganés,,,,,,Head-to-Head,,2025,Alaves
+15,2024-12-08,,La Liga,Matchweek 16,Sun,Away,,,,Osasuna,,,,,,Head-to-Head,,2025,Alaves
+16,2024-12-15,,La Liga,Matchweek 17,Sun,Home,,,,Athletic Club,,,,,,Head-to-Head,,2025,Alaves
+17,2024-12-22,,La Liga,Matchweek 18,Sun,Away,,,,Valencia,,,,,,Head-to-Head,,2025,Alaves
+18,2025-01-11,,La Liga,Matchweek 19,Sat,Home,,,,Girona,,,,,,Head-to-Head,,2025,Alaves
+19,2025-01-19,,La Liga,Matchweek 20,Sun,Away,,,,Betis,,,,,,Head-to-Head,,2025,Alaves
+20,2025-01-26,,La Liga,Matchweek 21,Sun,Home,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Alaves
+21,2025-02-02,,La Liga,Matchweek 22,Sun,Away,,,,Barcelona,,,,,,Head-to-Head,,2025,Alaves
+22,2025-02-09,,La Liga,Matchweek 23,Sun,Home,,,,Getafe,,,,,,Head-to-Head,,2025,Alaves
+23,2025-02-16,,La Liga,Matchweek 24,Sun,Away,,,,Leganés,,,,,,Head-to-Head,,2025,Alaves
+24,2025-02-23,,La Liga,Matchweek 25,Sun,Home,,,,Espanyol,,,,,,Head-to-Head,,2025,Alaves
+25,2025-03-02,,La Liga,Matchweek 26,Sun,Away,,,,Mallorca,,,,,,Head-to-Head,,2025,Alaves
+26,2025-03-09,,La Liga,Matchweek 27,Sun,Home,,,,Villarreal,,,,,,Head-to-Head,,2025,Alaves
+27,2025-03-16,,La Liga,Matchweek 28,Sun,Away,,,,Las Palmas,,,,,,Head-to-Head,,2025,Alaves
+28,2025-03-30,,La Liga,Matchweek 29,Sun,Home,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Alaves
+29,2025-04-06,,La Liga,Matchweek 30,Sun,Away,,,,Girona,,,,,,Head-to-Head,,2025,Alaves
+30,2025-04-13,,La Liga,Matchweek 31,Sun,Home,,,,Real Madrid,,,,,,Head-to-Head,,2025,Alaves
+31,2025-04-20,,La Liga,Matchweek 32,Sun,Away,,,,Sevilla,,,,,,Head-to-Head,,2025,Alaves
+32,2025-04-23,,La Liga,Matchweek 33,Wed,Home,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Alaves
+33,2025-05-04,,La Liga,Matchweek 34,Sun,Home,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Alaves
+34,2025-05-11,,La Liga,Matchweek 35,Sun,Away,,,,Athletic Club,,,,,,Head-to-Head,,2025,Alaves
+35,2025-05-14,,La Liga,Matchweek 36,Wed,Home,,,,Valencia,,,,,,Head-to-Head,,2025,Alaves
+36,2025-05-18,,La Liga,Matchweek 37,Sun,Away,,,,Valladolid,,,,,,Head-to-Head,,2025,Alaves
+37,2025-05-25,,La Liga,Matchweek 38,Sun,Home,,,,Osasuna,,,,,,Head-to-Head,,2025,Alaves
+0,2024-08-17,19:00,La Liga,Matchweek 1,Sat,Away,,,,Osasuna,,,,,,Head-to-Head,,2025,Leganes
+1,2024-08-25,19:00,La Liga,Matchweek 2,Sun,Home,,,,Las Palmas,,,,,,Head-to-Head,,2025,Leganes
+2,2024-08-28,19:00,La Liga,Matchweek 3,Wed,Away,,,,Valladolid,,,,,,Head-to-Head,,2025,Leganes
+3,2024-08-31,21:30,La Liga,Matchweek 4,Sat,Home,,,,Mallorca,,,,,,Head-to-Head,,2025,Leganes
+4,2024-09-15,,La Liga,Matchweek 5,Sun,Away,,,,Betis,,,,,,Head-to-Head,,2025,Leganes
+5,2024-09-22,,La Liga,Matchweek 6,Sun,Away,,,,Getafe,,,,,,Head-to-Head,,2025,Leganes
+6,2024-09-25,,La Liga,Matchweek 7,Wed,Home,,,,Athletic Club,,,,,,Head-to-Head,,2025,Leganes
+7,2024-09-29,,La Liga,Matchweek 8,Sun,Away,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Leganes
+8,2024-10-06,,La Liga,Matchweek 9,Sun,Home,,,,Valencia,,,,,,Head-to-Head,,2025,Leganes
+9,2024-10-20,,La Liga,Matchweek 10,Sun,Away,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Leganes
+10,2024-10-27,,La Liga,Matchweek 11,Sun,Home,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Leganes
+11,2024-11-03,,La Liga,Matchweek 12,Sun,Away,,,,Girona,,,,,,Head-to-Head,,2025,Leganes
+12,2024-11-10,,La Liga,Matchweek 13,Sun,Home,,,,Sevilla,,,,,,Head-to-Head,,2025,Leganes
+13,2024-11-24,,La Liga,Matchweek 14,Sun,Home,,,,Real Madrid,,,,,,Head-to-Head,,2025,Leganes
+14,2024-12-01,,La Liga,Matchweek 15,Sun,Away,,,,Alavés,,,,,,Head-to-Head,,2025,Leganes
+15,2024-12-08,,La Liga,Matchweek 16,Sun,Home,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Leganes
+16,2024-12-15,,La Liga,Matchweek 17,Sun,Away,,,,Barcelona,,,,,,Head-to-Head,,2025,Leganes
+17,2024-12-22,,La Liga,Matchweek 18,Sun,Home,,,,Villarreal,,,,,,Head-to-Head,,2025,Leganes
+18,2025-01-11,,La Liga,Matchweek 19,Sat,Away,,,,Espanyol,,,,,,Head-to-Head,,2025,Leganes
+19,2025-01-19,,La Liga,Matchweek 20,Sun,Home,,,,Atlético Madrid,,,,,,Head-to-Head,,2025,Leganes
+20,2025-01-26,,La Liga,Matchweek 21,Sun,Away,,,,Athletic Club,,,,,,Head-to-Head,,2025,Leganes
+21,2025-02-02,,La Liga,Matchweek 22,Sun,Home,,,,Rayo Vallecano,,,,,,Head-to-Head,,2025,Leganes
+22,2025-02-09,,La Liga,Matchweek 23,Sun,Away,,,,Valencia,,,,,,Head-to-Head,,2025,Leganes
+23,2025-02-16,,La Liga,Matchweek 24,Sun,Home,,,,Alavés,,,,,,Head-to-Head,,2025,Leganes
+24,2025-02-23,,La Liga,Matchweek 25,Sun,Away,,,,Real Sociedad,,,,,,Head-to-Head,,2025,Leganes
+25,2025-03-02,,La Liga,Matchweek 26,Sun,Home,,,,Getafe,,,,,,Head-to-Head,,2025,Leganes
+26,2025-03-09,,La Liga,Matchweek 27,Sun,Away,,,,Celta Vigo,,,,,,Head-to-Head,,2025,Leganes
+27,2025-03-16,,La Liga,Matchweek 28,Sun,Home,,,,Betis,,,,,,Head-to-Head,,2025,Leganes
+28,2025-03-30,,La Liga,Matchweek 29,Sun,Away,,,,Real Madrid,,,,,,Head-to-Head,,2025,Leganes
+29,2025-04-06,,La Liga,Matchweek 30,Sun,Home,,,,Osasuna,,,,,,Head-to-Head,,2025,Leganes
+30,2025-04-13,,La Liga,Matchweek 31,Sun,Home,,,,Barcelona,,,,,,Head-to-Head,,2025,Leganes
+31,2025-04-20,,La Liga,Matchweek 32,Sun,Away,,,,Mallorca,,,,,,Head-to-Head,,2025,Leganes
+32,2025-04-23,,La Liga,Matchweek 33,Wed,Home,,,,Girona,,,,,,Head-to-Head,,2025,Leganes
+33,2025-05-04,,La Liga,Matchweek 34,Sun,Away,,,,Sevilla,,,,,,Head-to-Head,,2025,Leganes
+34,2025-05-11,,La Liga,Matchweek 35,Sun,Home,,,,Espanyol,,,,,,Head-to-Head,,2025,Leganes
+35,2025-05-14,,La Liga,Matchweek 36,Wed,Away,,,,Villarreal,,,,,,Head-to-Head,,2025,Leganes
+36,2025-05-18,,La Liga,Matchweek 37,Sun,Away,,,,Las Palmas,,,,,,Head-to-Head,,2025,Leganes
+37,2025-05-25,,La Liga,Matchweek 38,Sun,Home,,,,Valladolid,,,,,,Head-to-Head,,2025,Leganes
