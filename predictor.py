@@ -49,7 +49,7 @@ combined_matches = pd.concat([matches, future_matches], ignore_index=True)
 combined_matches_rolling = combined_matches.groupby("Team").apply(lambda x: rolling_avg(x, cols, new_cols))
 combined_matches_rolling = combined_matches_rolling.droplevel("Team")
 combined_matches_rolling.index = range(combined_matches_rolling.shape[0])
-# combined_matches_rolling.to_csv("h.csv") # for debugging
+combined_matches_rolling.to_csv("h.csv") # for debugging
 
 
 def make_predict(matches, predictors):
